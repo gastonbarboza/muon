@@ -2,13 +2,14 @@ import visa
 import time
 import numpy as np
 import matplotlib.pyplot as plt
-rm = visa.ResourceManager('@py',read_termination='\n')
-osci = rm.open_resource(rm.list_resources()[0])
+rm = visa.ResourceManager('@py')
+osci = rm.open_resource(rm.list_resources()[0],read_termination='\n')
 
 voltajeinicial = float(input('Threshold más grande: '))
 voltajefinal = float(input('Threshold menos grande: '))
 numerothresholds = int(input('Decime cuántos datos: '))
 segundos = int(input('Cuánto tiempo mido? Decimeee: '))
+input("Chequeemos comunicacion: {}. Presione enter para continuar".format(osci.query('*IDN?')))
 print('Hora de detectar muones. Que la fuerza electrodébil te acompanie.')
 listathresholds = np.linspace(-.1,-.08,3)
 listathresholds = np.linspace(voltajeinicial,voltajefinal,num=numerothresholds)
