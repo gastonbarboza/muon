@@ -1,0 +1,7 @@
+Para hacer maniana:
+- Crear regla udev
+  https://stackoverflow.com/questions/3738173/why-does-pyusb-libusb-require-root-sudo-permissions-on-linux.
+Si es necesario googlear udev naming rules.
+- Agregarnos al grupo usbusers con >>usermod -a -G usbusers gastomi
+- Ver si el pipe error surge con apagar la adquisicion
+- Ver si el error se repite en Windows

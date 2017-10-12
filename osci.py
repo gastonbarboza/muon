@@ -2,7 +2,7 @@ import visa
 import time
 import numpy as np
 import matplotlib.pyplot as plt
-rm = visa.ResourceManager('@py')
+rm = visa.ResourceManager('@py',read_termination='\n')
 osci = rm.open_resource(rm.list_resources()[0])
 
 voltajeinicial = float(input('Threshold más grande: '))
