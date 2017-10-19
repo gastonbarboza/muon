@@ -2,37 +2,48 @@ import visa
 import time
 import numpy as np
 import matplotlib.pyplot as plt
+import sys
 rm = visa.ResourceManager('@py')
 osci = rm.open_resource(rm.list_resources()[0],read_termination='\n')
 
-voltajeinicial = float(input('Threshold más grande: '))
-voltajefinal = float(input('Threshold menos grande: '))
-numerothresholds = int(input('Decime cuántos datos: '))
-segundos = int(input('Cuánto tiempo mido? Decimeee: '))
+nroplacas = int(input('Placa 1 o 2? Para ambas ingrese 0: '))
+placasAbarrer = [1,2] if nroplacas == 0 else [nroplacas]
+
+arraycondiciones = [0,0]
+if nroplacas == 0:
+    arraycondiciones[0] = [float(num) for num in input('Thresholds superior, inferior, nro datos, tiempo por medición para la placa 1 separados por espacios: ').split()] #.1 .2 25 60
+    if input('Mismas condiciones para placa 2? y/n: ')=='y': 
+        arraycondiciones[1] = arraycondiciones[0]
+    else:
+        arraycondiciones[1] = [float(num) for num in input('Bueno dale... vos sabés qué hacer: ').split()]
+else:
+    arraycondiciones[0] = [float(num) for num in input('Thresholds superior, inferior, nro datos, tiempo por medición para la placa {} separados por espacios: '.format(nroplacas)).split()]
+    arraycondiciones[1] = arraycondiciones[0]
+
 input("Chequeemos comunicacion: {}. Presione enter para continuar".format(osci.query('*IDN?')))
 print('Hora de detectar muones. Que la fuerza electrodébil te acompanie.')
-listathresholds = np.linspace(-.1,-.08,3)
-listathresholds = np.linspace(voltajeinicial,voltajefinal,num=numerothresholds)
 
-eventos = np.zeros(len(listathresholds))
-for index,threshold in enumerate(listathresholds):
-    osci.write('trigger:a:level:ch1 {}'.format(threshold)) #apago la adquisición y cambio el trigger
-    escala = float(osci.query('horizontal:scale?')) #esto se fija qué escala estamos usando
-    osci.write('horizontal:scale {}; scale {}'.format(1,escala)) #esto reinicia el numero de adquisiciones
-    time.sleep(segundos)
-    eventos[index] = int(osci.query('acquire:numacq?'))
-np.savetxt('medicion_{}.csv'.format(time.strftime("%m-%d-%H%M")),np.transpose([listathresholds,eventos]),delimiter=',')
-plt.plot(-1*listathresholds,eventos,'ro')
-plt.grid()
-plt.show()
+for placa in placasAbarrer:
+    osci.write('trigger:a:edge:slope fall; source ch{}'.format(placa))
+    listathresholds = np.linspace(arraycondiciones[placa-1][0],arraycondiciones[placa-1][1],arraycondiciones[placa-1][2])
+    eventos = np.zeros(len(listathresholds))
+    segundos = arraycondiciones[placa-1][3]
+    for index,threshold in enumerate(listathresholds):
+        osci.write('trigger:a:level:ch{} {}'.format(placa,threshold)) #cambio el trigger
+        escala = float(osci.query('horizontal:scale?')) #esto se fija qué escala estamos usando
+        osci.write('horizontal:scale {}; scale {}'.format(escala*1000,escala)) #esto reinicia el numero de adquisiciones
+        time.sleep(segundos)
+        mediciones = osci.query('acquire:numacq?')
+        eventos[index] = int(mediciones)/segundos
+        print(mediciones)
+    np.savetxt('segplacafecha_{}_{}_{}.csv'.format(int(segundos),placa,time.strftime("%m-%d-%H%M")),np.transpose([listathresholds,eventos]),delimiter=',')
+    plt.figure()
+    plt.plot(-1*listathresholds,eventos,'ro')
+    plt.title('Placa {}'.format(placa))
+    plt.xlabel('Threshold (v)')
+    plt.ylabel('Número de eventos')
+    plt.grid()
+    plt.show(block=False)
+input('noooo')
 osci.close()
 
-####
-#código viejo:
-####
-#seg = int(input('Cuántos segundos? '))
-#muonesIniciales = int(osci.query('ACQuire:NUMACq?'))
-#time.sleep(seg)
-#muonesNuevos = int(osci.query('ACQuire:NUMACq?')) - muonesIniciales
-#print('En {}s llegaron {} muones :u'.format(seg,muonesNuevos))
-#osci.close()
