@@ -9,7 +9,7 @@ import sys
 #rate debe ser mayor que 22
 
 dateinicial = time.strftime("%y.%m.%d_%H.%M")
-rm = visa.ResourceManager('@sim')
+rm = visa.ResourceManager('@py')
 osci = rm.open_resource(rm.list_resources()[0],read_termination='\n')
 
 #Parametros de nuestra medicion
