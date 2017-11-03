@@ -15,7 +15,7 @@ temp = fitFunc(t, 2.5, 1.3, 0.5)
 noisy = temp + 0.25*np.random.normal(size=len(temp))
 
 
-fitParams, fitCovariances = curve_fit(fitFunc, -pmt1[:,0],noisy)
+#fitParams, fitCovariances = curve_fit(fitFunc, -pmt1[:,0],noisy)
 
 plt.plot(t, fitFunc(t, fitParams[0], fitParams[1], fitParams[2]))
 plt.show()
