@@ -43,6 +43,6 @@ for index,rate in enumerate(ratelist):
     matrizdedatos[index][1] = nromuones
     np.savetxt('barridolargo_' + dateinicial + '.csv',matrizdedatos,delimiter=',')
     print(str(nromuones) + ' coincidencias para rate {}'.format(rate))
-    print('Threshold 1: {0:.2f}'.format(threshold1))
-    print('Threshold 2: {0:.2f}'.format(threshold2))
+    print('Threshold 1: {}'.format(threshold1))
+    print('Threshold 2: {}'.format(threshold2))
 osci.close()
