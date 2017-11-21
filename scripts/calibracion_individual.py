@@ -4,6 +4,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import sys
 import os
+from escalafunc import escalafunc
 
 ###abre el osciloscopio
 rm = visa.ResourceManager('@py')
@@ -13,22 +14,20 @@ osci = rm.open_resource(rm.list_resources()[0],read_termination='\n')
 sigomidiendo = True
 nombrecarpeta = time.strftime("%m-%d-%H%M")
 os.mkdir(nombrecarpeta)
-nroplacas = int(sys.argv[1])
+nroplacas = int(sys.argv[1]) 
 mismascondiciones = bool(int(sys.argv[2]))
 n = int(sys.argv[3])
-
-###funcion de escala para threshold
-def escalafunc(threshold):
-    if threshold < -.108:
-        return(0.02)
-    elif threshold <-.0539:
-        return(0.01)
-    elif threshold<-.0216:
-        return(0.005)
-    elif threshold < -.0108:
-        return(0.002)
-    else:
-        return(0.001)
+puntoextra=[1,2]
+posicionextra=[0,1]
+##al programa hay que llamarlo
+## >>python3 calibracion_individual.py nroplacas mismascondiciones n
+## donde nroplacas es 0 para ambas, 1 para la placa 1, 2 para la placa 2
+## mismascondiciones es 0 (falso) o 1 (verdadero)
+## n es la cantidad de veces que barre la serie (por cortes de luz)
+pmt = [2,1]
+pin = [5,9]
+volt = [850,852]
+cent = [2,2]
 
 ###hace el barrido
 while sigomidiendo:
@@ -49,24 +48,29 @@ while sigomidiendo:
     #empieza el barrido
     input("Chequeemos comunicacion: {}. Presione enter para continuar".format(osci.query('*IDN?')))
     print('Hora de detectar muones. Que la fuerza electrodébil te acompanie.')
+    print('\n')
     for placa in placasAbarrertotal:
         #se posiciona en el canal que queremos medir
         osci.write('trigger:a:edge:slope fall; source ch{}'.format(placa))
         #crea lista de thresholds y array vacío de eventos
-        listathresholds = np.linspace(arraycondiciones[placa-1][0],arraycondiciones[placa-1][1],arraycondiciones[placa-1][2])
+        listathresholds = np.insert(np.linspace(arraycondiciones[placa-1][0],arraycondiciones[placa-1][1],arraycondiciones[placa-1][2]),posicionextra[placa-1],puntoextra[placa-1])/-1000
+        segundos = arraycondiciones[placa-1][3]
+        print('Para la placa {}, vamos a barrer los siguientes thresholds'.format(placa))
+        print(listathresholds)
+        print('con {} segundos cada punto.'.format(segundos))
+        print('\n')
         eventos = np.zeros(len(listathresholds))
         #hace el barrido (ahora si)
-        segundos = arraycondiciones[placa-1][3]
         for index,threshold in enumerate(listathresholds):
             osci.write('trigger:a:level:ch{} {}'.format(placa,threshold)) #cambio el trigger
             escala = float(osci.query('horizontal:scale?'))
-            osci.write('ch{}:scale {}'.format(placa,escalafunc(threshold)))
+            osci.write('ch{}:scale {}'.format(placa,escalafunc(threshold))) #cambia la escala para no perder eventos por falta de resolucion
             osci.write('horizontal:scale {}; scale {}'.format(escala*1000,escala)) #esto reinicia el numero de adquisiciones
             time.sleep(segundos)
             mediciones = osci.query('acquire:numacq?')
             eventos[index] = int(mediciones)/segundos*60
-        np.savetxt(nombrecarpeta + '/segplacafecha_{}_{}_{}.csv'.format(int(segundos),placa,time.strftime("%m-%d-%H%M%s")),np.transpose([listathresholds,eventos]),delimiter=',')
+        np.savetxt(nombrecarpeta + '/date_{}.plc_{}.pmt_{}.pin_{}.volt_{}.cent_{}.seg_{}.csv'.format(time.strftime("%m-%d-%H%M%s"),placa,pmt[placa-1],pin[placa-1],volt[placa-1],cent[placa-1],int(segundos)),np.transpose([listathresholds,eventos]),delimiter=',')
     sigomidiendo = int(input('Ingrese 0 para finalizar o cualquier otra número si quiere seguir explotándome. '))
-input('noooo')
+print('noooo')
 osci.close()
 
