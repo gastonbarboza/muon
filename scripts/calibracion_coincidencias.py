@@ -1,4 +1,4 @@
-import visa
+﻿import visa
 from time import strftime,sleep
 import numpy as np
 import sys
@@ -14,25 +14,29 @@ from escalafunc import escalafunc
 rm = visa.ResourceManager('@py')
 osci = rm.open_resource(rm.list_resources()[0],read_termination='\n')
 
+#File management
+os.chdir(os.path.dirname(sys.argv[0]))
+pathname = "../datos_temp/"+time.strftime("%d%b")+"/"
+os.mkdir(pathname) if not(os.path.isdir(pathname)) else pass
+nombrecarpeta = pathname + "coincidencias"+time.strftime("%y.%m.%d_%H.%M")+"/"
+os.mkdir(nombrecarpeta) if not(os.path.isdir(nombrecarpeta)) else pass
+nombrearchivo = "coincidencias.pines_5_9.volt_850_852.seg_{}.".format(tiempomedicion) + strftime("%y.%m.%d_%H.%M.%s")
+
 #Parametros de nuestra medicion
 nropuntos = int(sys.argv[3])
 ratelist = np.linspace(float(sys.argv[1]), float(sys.argv[2]), int(sys.argv[3]))
 tiempomedicion = float(sys.argv[4]) #Cuanto tiempo quiero barrer cada threshold
 repeticiones = int(sys.argv[5])
 
-ratestring = ', 	'.join(map(str,ratelist.tolist()))
+#Imprime rates para chequear que esté todo bien
+ratestring = ', '.join(map(str,ratelist.tolist()))
 print('Rates a barrer: ' + ratestring)
 
 #Crea csv para guardar
 matrizdedatos = np.transpose([ratelist,np.zeros(nropuntos)])
 
 #Hace el barrido
-nombrecarpeta = "coincidencias_"+strftime("%y.%m.%d_%H.%M")
-os.mkdir(nombrecarpeta)
-
 for j in range(repeticiones):
-    dateinicial = strftime("%y.%m.%d_%H.%M.%s")
-
     for index,rate in enumerate(ratelist):
         threshold1, threshold2 = threshold(rate)
         escala1 = escalafunc(threshold1)
@@ -48,6 +52,6 @@ for j in range(repeticiones):
         sleep(tiempomedicion)
         nromuones = int(osci.query('ACQuire:NUMACq?')) - muonesIniciales
         matrizdedatos[index][1] = nromuones
-        np.savetxt(nombrecarpeta + '/coinc' + dateinicial + '.csv',matrizdedatos,delimiter=',')
+        np.savetxt(nombrecarpeta + nombrearchivo + '.csv',matrizdedatos,delimiter=',')
         print(str(nromuones) + ' coincidencias')
 osci.close()
