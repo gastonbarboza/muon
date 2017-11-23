@@ -60,6 +60,7 @@ while sigomidiendo:
     print('\n')
     for placa in placasAbarrer:
         segundos = arraycondiciones[placa-1][3]
+        listathresholds = np.insert(np.linspace(arraycondiciones[placa-1][0],arraycondiciones[placa-1][1],arraycondiciones[placa-1][2]),posicionextra[placa-1],puntoextra[placa-1])/-1000
         print('Para la placa {}, vamos a barrer los siguientes thresholds'.format(placa))
         print(listathresholds)
         print('con {} segundos cada punto.'.format(segundos))
