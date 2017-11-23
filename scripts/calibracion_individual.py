@@ -26,15 +26,17 @@ cent = [2,2]
 ## n es la cantidad de veces que barre la serie (por cortes de luz)
 
 #puntos extra (agregados a manopla)
-puntoextra=[1,2]
-posicionextra=[0,1]
+puntoextra=[2,1]
+posicionextra=[1,0]
 
 #File management
-os.chdir(os.path.dirname(sys.argv[0]))
+os.chdir(os.path.dirname(os.path.abspath(__file__))) 
 pathname = "../datos_temp/"+time.strftime("%d%b")+"/"
-os.mkdir(pathname) if not(os.path.isdir(pathname)) else pass
+if not(os.path.isdir(pathname)):
+    os.mkdir(pathname) 
 nombrecarpeta = pathname + "calibracion"+time.strftime("%y.%m.%d_%H.%M")+"/"
-os.mkdir(nombrecarpeta) if not(os.path.isdir(nombrecarpeta)) else pass
+if not(os.path.isdir(nombrecarpeta)):
+    os.mkdir(nombrecarpeta)
 
 ###hace el barrido
 while sigomidiendo:
@@ -56,16 +58,17 @@ while sigomidiendo:
     input("Chequeemos comunicacion: {}. Presione enter para continuar".format(osci.query('*IDN?')))
     print('Hora de detectar muones. Que la fuerza electrodébil te acompanie.')
     print('\n')
-    for placa in placasAbarrertotal:
-        #se posiciona en el canal que queremos medir
-        osci.write('trigger:a:edge:slope fall; source ch{}'.format(placa))
-        #crea lista de thresholds y array vacío de eventos
-        listathresholds = np.insert(np.linspace(arraycondiciones[placa-1][0],arraycondiciones[placa-1][1],arraycondiciones[placa-1][2]),posicionextra[placa-1],puntoextra[placa-1])/-1000
+    for placa in placasAbarrer:
         segundos = arraycondiciones[placa-1][3]
         print('Para la placa {}, vamos a barrer los siguientes thresholds'.format(placa))
         print(listathresholds)
         print('con {} segundos cada punto.'.format(segundos))
         print('\n')
+    for placa in placasAbarrertotal:
+        #se posiciona en el canal que queremos medir
+        osci.write('trigger:a:edge:slope fall; source ch{}'.format(placa))
+        #crea lista de thresholds y array vacío de eventos
+        listathresholds = np.insert(np.linspace(arraycondiciones[placa-1][0],arraycondiciones[placa-1][1],arraycondiciones[placa-1][2]),posicionextra[placa-1],puntoextra[placa-1])/-1000
         eventos = np.zeros(len(listathresholds))
         #hace el barrido (ahora si)
         for index,threshold in enumerate(listathresholds):
