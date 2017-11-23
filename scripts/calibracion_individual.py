@@ -1,4 +1,4 @@
-import visa
+﻿import visa
 import time
 import numpy as np
 import matplotlib.pyplot as plt
@@ -12,22 +12,29 @@ osci = rm.open_resource(rm.list_resources()[0],read_termination='\n')
 
 ###define parámetros globales
 sigomidiendo = True
-nombrecarpeta = time.strftime("%m-%d-%H%M")
-os.mkdir(nombrecarpeta)
 nroplacas = int(sys.argv[1]) 
 mismascondiciones = bool(int(sys.argv[2]))
 n = int(sys.argv[3])
-puntoextra=[1,2]
-posicionextra=[0,1]
+pmt = [2,1]
+pin = [5,9]
+volt = [850,852]
+cent = [2,2]
 ##al programa hay que llamarlo
 ## >>python3 calibracion_individual.py nroplacas mismascondiciones n
 ## donde nroplacas es 0 para ambas, 1 para la placa 1, 2 para la placa 2
 ## mismascondiciones es 0 (falso) o 1 (verdadero)
 ## n es la cantidad de veces que barre la serie (por cortes de luz)
-pmt = [2,1]
-pin = [5,9]
-volt = [850,852]
-cent = [2,2]
+
+#puntos extra (agregados a manopla)
+puntoextra=[1,2]
+posicionextra=[0,1]
+
+#File management
+os.chdir(os.path.dirname(sys.argv[0]))
+pathname = "../datos_temp/"+time.strftime("%d%b")+"/"
+os.mkdir(pathname) if not(os.path.isdir(pathname)) else pass
+nombrecarpeta = pathname + "calibracion"+time.strftime("%y.%m.%d_%H.%M")+"/"
+os.mkdir(nombrecarpeta) if not(os.path.isdir(nombrecarpeta)) else pass
 
 ###hace el barrido
 while sigomidiendo:
@@ -69,7 +76,8 @@ while sigomidiendo:
             time.sleep(segundos)
             mediciones = osci.query('acquire:numacq?')
             eventos[index] = int(mediciones)/segundos*60
-        np.savetxt(nombrecarpeta + '/date_{}.plc_{}.pmt_{}.pin_{}.volt_{}.cent_{}.seg_{}.csv'.format(time.strftime("%m-%d-%H%M%s"),placa,pmt[placa-1],pin[placa-1],volt[placa-1],cent[placa-1],int(segundos)),np.transpose([listathresholds,eventos]),delimiter=',')
+        nombrearchivo = 'date_{}.plc_{}.pmt_{}.pin_{}.volt_{}.cent_{}.seg_{}.csv'.format(time.strftime("%m-%d-%H%M%s"),placa,pmt[placa-1],pin[placa-1],volt[placa-1],cent[placa-1],int(segundos))
+        np.savetxt(nombrecarpeta + nombrearchivo,np.transpose([listathresholds,eventos]),delimiter=',')
     sigomidiendo = int(input('Ingrese 0 para finalizar o cualquier otra número si quiere seguir explotándome. '))
 print('noooo')
 osci.close()

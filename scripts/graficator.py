@@ -1,8 +1,12 @@
-import time
 import numpy as np
 import os
 import sys
 import matplotlib.pyplot as plt
+
+#File management
+os.chdir(os.path.dirname(sys.argv[0])) #setea bien el directorio
+pathname = "../datos_temp/"+time.strftime("%d%b")+"/"
+os.mkdir(pathname) if not(os.path.isdir(pathname)) else pass
 
 listadedatos = list(os.walk("./graficar/"))[0][2]
 
@@ -23,5 +27,5 @@ nombre = input('nombre? ')
 plt.title(nombre)
 plt.xlabel("Thresholds")
 plt.ylabel("Rate")
-plt.savefig(nombre + ".jpg",dpi=300)
+plt.savefig(pathname + nombre + ".jpg",dpi=300)
 plt.show()
