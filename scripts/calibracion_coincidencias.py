@@ -1,6 +1,7 @@
 ﻿import visa
 from time import strftime,sleep
 import numpy as np
+import time
 import sys
 import os
 from interpol import threshold
@@ -14,19 +15,21 @@ from escalafunc import escalafunc
 rm = visa.ResourceManager('@py')
 osci = rm.open_resource(rm.list_resources()[0],read_termination='\n')
 
-#File management
-os.chdir(os.path.dirname(sys.argv[0]))
-pathname = "../datos_temp/"+time.strftime("%d%b")+"/"
-os.mkdir(pathname) if not(os.path.isdir(pathname)) else pass
-nombrecarpeta = pathname + "coincidencias"+time.strftime("%y.%m.%d_%H.%M")+"/"
-os.mkdir(nombrecarpeta) if not(os.path.isdir(nombrecarpeta)) else pass
-nombrearchivo = "coincidencias.pines_5_9.volt_850_852.seg_{}.".format(tiempomedicion) + strftime("%y.%m.%d_%H.%M.%s")
-
 #Parametros de nuestra medicion
 nropuntos = int(sys.argv[3])
 ratelist = np.linspace(float(sys.argv[1]), float(sys.argv[2]), int(sys.argv[3]))
 tiempomedicion = float(sys.argv[4]) #Cuanto tiempo quiero barrer cada threshold
 repeticiones = int(sys.argv[5])
+
+#File management
+os.chdir(os.path.dirname(os.path.abspath(__file__))) 
+pathname = "../datos_temp/"+time.strftime("%d%b")+"/"
+if not(os.path.isdir(pathname)):
+    os.mkdir(pathname) 
+nombrecarpeta = pathname + "coincidencias"+time.strftime("%y.%m.%d_%H.%M")+"/"
+if not(os.path.isdir(nombrecarpeta)):
+    os.mkdir(nombrecarpeta)
+nombrearchivo = "coincidencias.pines_5_9.volt_850_852.seg_{}.".format(tiempomedicion) + strftime("%y.%m.%d_%H.%M.%s")
 
 #Imprime rates para chequear que esté todo bien
 ratestring = ', '.join(map(str,ratelist.tolist()))
