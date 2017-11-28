@@ -1,0 +1,2701 @@
+Rates a barrer: 39.0, 36.5, 34.0, 31.5, 29.0, 26.5, 24.0, 21.5, 19.0, 16.5, 14.0, 11.5, 9.0, 6.5, 4.0
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 39.0 seteamos los thresholds en 8mV para el canal 1 y 4mV para el 2
+225 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+226 eventos iniciales
+Para el rate 36.5 seteamos los thresholds en 10mV para el canal 1 y 8mV para el 2
+161 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 34.0 seteamos los thresholds en 12mV para el canal 1 y 14mV para el 2
+178 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+178 eventos iniciales
+Para el rate 31.5 seteamos los thresholds en 13mV para el canal 1 y 20mV para el 2
+121 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 29.0 seteamos los thresholds en 15mV para el canal 1 y 24mV para el 2
+103 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+103 eventos iniciales
+Para el rate 26.5 seteamos los thresholds en 16mV para el canal 1 y 27mV para el 2
+65 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+168 eventos iniciales
+Para el rate 24.0 seteamos los thresholds en 17mV para el canal 1 y 30mV para el 2
+62 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+230 eventos iniciales
+Para el rate 21.5 seteamos los thresholds en 18mV para el canal 1 y 33mV para el 2
+53 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 19.0 seteamos los thresholds en 21mV para el canal 1 y 36mV para el 2
+23 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+23 eventos iniciales
+Para el rate 16.5 seteamos los thresholds en 22mV para el canal 1 y 38mV para el 2
+22 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+45 eventos iniciales
+Para el rate 14.0 seteamos los thresholds en 24mV para el canal 1 y 41mV para el 2
+12 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+57 eventos iniciales
+Para el rate 11.5 seteamos los thresholds en 25mV para el canal 1 y 43mV para el 2
+6 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+63 eventos iniciales
+Para el rate 9.0 seteamos los thresholds en 27mV para el canal 1 y 46mV para el 2
+4 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+67 eventos iniciales
+Para el rate 6.5 seteamos los thresholds en 29mV para el canal 1 y 50mV para el 2
+3 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 4.0 seteamos los thresholds en 32mV para el canal 1 y 57mV para el 2
+1 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 39.0 seteamos los thresholds en 8mV para el canal 1 y 4mV para el 2
+239 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+239 eventos iniciales
+Para el rate 36.5 seteamos los thresholds en 10mV para el canal 1 y 8mV para el 2
+148 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 34.0 seteamos los thresholds en 12mV para el canal 1 y 14mV para el 2
+149 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+149 eventos iniciales
+Para el rate 31.5 seteamos los thresholds en 13mV para el canal 1 y 20mV para el 2
+103 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 29.0 seteamos los thresholds en 15mV para el canal 1 y 24mV para el 2
+86 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+86 eventos iniciales
+Para el rate 26.5 seteamos los thresholds en 16mV para el canal 1 y 27mV para el 2
+60 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+146 eventos iniciales
+Para el rate 24.0 seteamos los thresholds en 17mV para el canal 1 y 30mV para el 2
+50 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+196 eventos iniciales
+Para el rate 21.5 seteamos los thresholds en 18mV para el canal 1 y 33mV para el 2
+42 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 19.0 seteamos los thresholds en 21mV para el canal 1 y 36mV para el 2
+20 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+20 eventos iniciales
+Para el rate 16.5 seteamos los thresholds en 22mV para el canal 1 y 38mV para el 2
+23 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+43 eventos iniciales
+Para el rate 14.0 seteamos los thresholds en 24mV para el canal 1 y 41mV para el 2
+14 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+57 eventos iniciales
+Para el rate 11.5 seteamos los thresholds en 25mV para el canal 1 y 43mV para el 2
+8 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+65 eventos iniciales
+Para el rate 9.0 seteamos los thresholds en 27mV para el canal 1 y 46mV para el 2
+4 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+69 eventos iniciales
+Para el rate 6.5 seteamos los thresholds en 29mV para el canal 1 y 50mV para el 2
+6 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 4.0 seteamos los thresholds en 32mV para el canal 1 y 57mV para el 2
+0 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+1 eventos iniciales
+Para el rate 39.0 seteamos los thresholds en 8mV para el canal 1 y 4mV para el 2
+197 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+198 eventos iniciales
+Para el rate 36.5 seteamos los thresholds en 10mV para el canal 1 y 8mV para el 2
+193 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+1 eventos iniciales
+Para el rate 34.0 seteamos los thresholds en 12mV para el canal 1 y 14mV para el 2
+167 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+168 eventos iniciales
+Para el rate 31.5 seteamos los thresholds en 13mV para el canal 1 y 20mV para el 2
+115 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 29.0 seteamos los thresholds en 15mV para el canal 1 y 24mV para el 2
+105 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+105 eventos iniciales
+Para el rate 26.5 seteamos los thresholds en 16mV para el canal 1 y 27mV para el 2
+92 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+197 eventos iniciales
+Para el rate 24.0 seteamos los thresholds en 17mV para el canal 1 y 30mV para el 2
+55 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+252 eventos iniciales
+Para el rate 21.5 seteamos los thresholds en 18mV para el canal 1 y 33mV para el 2
+40 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 19.0 seteamos los thresholds en 21mV para el canal 1 y 36mV para el 2
+17 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+17 eventos iniciales
+Para el rate 16.5 seteamos los thresholds en 22mV para el canal 1 y 38mV para el 2
+21 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+38 eventos iniciales
+Para el rate 14.0 seteamos los thresholds en 24mV para el canal 1 y 41mV para el 2
+13 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+51 eventos iniciales
+Para el rate 11.5 seteamos los thresholds en 25mV para el canal 1 y 43mV para el 2
+7 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+58 eventos iniciales
+Para el rate 9.0 seteamos los thresholds en 27mV para el canal 1 y 46mV para el 2
+8 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+66 eventos iniciales
+Para el rate 6.5 seteamos los thresholds en 29mV para el canal 1 y 50mV para el 2
+3 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 4.0 seteamos los thresholds en 32mV para el canal 1 y 57mV para el 2
+4 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 39.0 seteamos los thresholds en 8mV para el canal 1 y 4mV para el 2
+211 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+211 eventos iniciales
+Para el rate 36.5 seteamos los thresholds en 10mV para el canal 1 y 8mV para el 2
+168 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 34.0 seteamos los thresholds en 12mV para el canal 1 y 14mV para el 2
+175 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+175 eventos iniciales
+Para el rate 31.5 seteamos los thresholds en 13mV para el canal 1 y 20mV para el 2
+128 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 29.0 seteamos los thresholds en 15mV para el canal 1 y 24mV para el 2
+92 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+92 eventos iniciales
+Para el rate 26.5 seteamos los thresholds en 16mV para el canal 1 y 27mV para el 2
+88 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+180 eventos iniciales
+Para el rate 24.0 seteamos los thresholds en 17mV para el canal 1 y 30mV para el 2
+72 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+252 eventos iniciales
+Para el rate 21.5 seteamos los thresholds en 18mV para el canal 1 y 33mV para el 2
+45 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 19.0 seteamos los thresholds en 21mV para el canal 1 y 36mV para el 2
+17 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+17 eventos iniciales
+Para el rate 16.5 seteamos los thresholds en 22mV para el canal 1 y 38mV para el 2
+25 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+42 eventos iniciales
+Para el rate 14.0 seteamos los thresholds en 24mV para el canal 1 y 41mV para el 2
+18 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+60 eventos iniciales
+Para el rate 11.5 seteamos los thresholds en 25mV para el canal 1 y 43mV para el 2
+11 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+71 eventos iniciales
+Para el rate 9.0 seteamos los thresholds en 27mV para el canal 1 y 46mV para el 2
+11 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+82 eventos iniciales
+Para el rate 6.5 seteamos los thresholds en 29mV para el canal 1 y 50mV para el 2
+5 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 4.0 seteamos los thresholds en 32mV para el canal 1 y 57mV para el 2
+1 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+1 eventos iniciales
+Para el rate 39.0 seteamos los thresholds en 8mV para el canal 1 y 4mV para el 2
+208 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+209 eventos iniciales
+Para el rate 36.5 seteamos los thresholds en 10mV para el canal 1 y 8mV para el 2
+187 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 34.0 seteamos los thresholds en 12mV para el canal 1 y 14mV para el 2
+132 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+132 eventos iniciales
+Para el rate 31.5 seteamos los thresholds en 13mV para el canal 1 y 20mV para el 2
+132 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 29.0 seteamos los thresholds en 15mV para el canal 1 y 24mV para el 2
+96 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+96 eventos iniciales
+Para el rate 26.5 seteamos los thresholds en 16mV para el canal 1 y 27mV para el 2
+72 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+168 eventos iniciales
+Para el rate 24.0 seteamos los thresholds en 17mV para el canal 1 y 30mV para el 2
+56 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+225 eventos iniciales
+Para el rate 21.5 seteamos los thresholds en 18mV para el canal 1 y 33mV para el 2
+37 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 19.0 seteamos los thresholds en 21mV para el canal 1 y 36mV para el 2
+27 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+27 eventos iniciales
+Para el rate 16.5 seteamos los thresholds en 22mV para el canal 1 y 38mV para el 2
+17 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+44 eventos iniciales
+Para el rate 14.0 seteamos los thresholds en 24mV para el canal 1 y 41mV para el 2
+15 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+59 eventos iniciales
+Para el rate 11.5 seteamos los thresholds en 25mV para el canal 1 y 43mV para el 2
+5 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+64 eventos iniciales
+Para el rate 9.0 seteamos los thresholds en 27mV para el canal 1 y 46mV para el 2
+7 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+71 eventos iniciales
+Para el rate 6.5 seteamos los thresholds en 29mV para el canal 1 y 50mV para el 2
+2 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 4.0 seteamos los thresholds en 32mV para el canal 1 y 57mV para el 2
+6 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 39.0 seteamos los thresholds en 8mV para el canal 1 y 4mV para el 2
+211 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+211 eventos iniciales
+Para el rate 36.5 seteamos los thresholds en 10mV para el canal 1 y 8mV para el 2
+168 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 34.0 seteamos los thresholds en 12mV para el canal 1 y 14mV para el 2
+146 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+146 eventos iniciales
+Para el rate 31.5 seteamos los thresholds en 13mV para el canal 1 y 20mV para el 2
+124 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 29.0 seteamos los thresholds en 15mV para el canal 1 y 24mV para el 2
+98 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+98 eventos iniciales
+Para el rate 26.5 seteamos los thresholds en 16mV para el canal 1 y 27mV para el 2
+73 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+171 eventos iniciales
+Para el rate 24.0 seteamos los thresholds en 17mV para el canal 1 y 30mV para el 2
+44 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+215 eventos iniciales
+Para el rate 21.5 seteamos los thresholds en 18mV para el canal 1 y 33mV para el 2
+37 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 19.0 seteamos los thresholds en 21mV para el canal 1 y 36mV para el 2
+24 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+24 eventos iniciales
+Para el rate 16.5 seteamos los thresholds en 22mV para el canal 1 y 38mV para el 2
+17 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+41 eventos iniciales
+Para el rate 14.0 seteamos los thresholds en 24mV para el canal 1 y 41mV para el 2
+11 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+52 eventos iniciales
+Para el rate 11.5 seteamos los thresholds en 25mV para el canal 1 y 43mV para el 2
+5 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+57 eventos iniciales
+Para el rate 9.0 seteamos los thresholds en 27mV para el canal 1 y 46mV para el 2
+6 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+63 eventos iniciales
+Para el rate 6.5 seteamos los thresholds en 29mV para el canal 1 y 50mV para el 2
+6 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 4.0 seteamos los thresholds en 32mV para el canal 1 y 57mV para el 2
+3 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+1 eventos iniciales
+Para el rate 39.0 seteamos los thresholds en 8mV para el canal 1 y 4mV para el 2
+201 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+202 eventos iniciales
+Para el rate 36.5 seteamos los thresholds en 10mV para el canal 1 y 8mV para el 2
+173 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 34.0 seteamos los thresholds en 12mV para el canal 1 y 14mV para el 2
+149 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+149 eventos iniciales
+Para el rate 31.5 seteamos los thresholds en 13mV para el canal 1 y 20mV para el 2
+119 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+1 eventos iniciales
+Para el rate 29.0 seteamos los thresholds en 15mV para el canal 1 y 24mV para el 2
+93 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+94 eventos iniciales
+Para el rate 26.5 seteamos los thresholds en 16mV para el canal 1 y 27mV para el 2
+71 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+165 eventos iniciales
+Para el rate 24.0 seteamos los thresholds en 17mV para el canal 1 y 30mV para el 2
+53 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+218 eventos iniciales
+Para el rate 21.5 seteamos los thresholds en 18mV para el canal 1 y 33mV para el 2
+53 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 19.0 seteamos los thresholds en 21mV para el canal 1 y 36mV para el 2
+21 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+21 eventos iniciales
+Para el rate 16.5 seteamos los thresholds en 22mV para el canal 1 y 38mV para el 2
+30 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+51 eventos iniciales
+Para el rate 14.0 seteamos los thresholds en 24mV para el canal 1 y 41mV para el 2
+15 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+66 eventos iniciales
+Para el rate 11.5 seteamos los thresholds en 25mV para el canal 1 y 43mV para el 2
+6 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+72 eventos iniciales
+Para el rate 9.0 seteamos los thresholds en 27mV para el canal 1 y 46mV para el 2
+6 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+78 eventos iniciales
+Para el rate 6.5 seteamos los thresholds en 29mV para el canal 1 y 50mV para el 2
+2 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 4.0 seteamos los thresholds en 32mV para el canal 1 y 57mV para el 2
+2 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 39.0 seteamos los thresholds en 8mV para el canal 1 y 4mV para el 2
+233 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+234 eventos iniciales
+Para el rate 36.5 seteamos los thresholds en 10mV para el canal 1 y 8mV para el 2
+158 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 34.0 seteamos los thresholds en 12mV para el canal 1 y 14mV para el 2
+152 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+152 eventos iniciales
+Para el rate 31.5 seteamos los thresholds en 13mV para el canal 1 y 20mV para el 2
+120 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 29.0 seteamos los thresholds en 15mV para el canal 1 y 24mV para el 2
+98 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+98 eventos iniciales
+Para el rate 26.5 seteamos los thresholds en 16mV para el canal 1 y 27mV para el 2
+64 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+162 eventos iniciales
+Para el rate 24.0 seteamos los thresholds en 17mV para el canal 1 y 30mV para el 2
+55 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+217 eventos iniciales
+Para el rate 21.5 seteamos los thresholds en 18mV para el canal 1 y 33mV para el 2
+47 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 19.0 seteamos los thresholds en 21mV para el canal 1 y 36mV para el 2
+20 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+20 eventos iniciales
+Para el rate 16.5 seteamos los thresholds en 22mV para el canal 1 y 38mV para el 2
+19 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+39 eventos iniciales
+Para el rate 14.0 seteamos los thresholds en 24mV para el canal 1 y 41mV para el 2
+17 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+56 eventos iniciales
+Para el rate 11.5 seteamos los thresholds en 25mV para el canal 1 y 43mV para el 2
+20 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+76 eventos iniciales
+Para el rate 9.0 seteamos los thresholds en 27mV para el canal 1 y 46mV para el 2
+3 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+79 eventos iniciales
+Para el rate 6.5 seteamos los thresholds en 29mV para el canal 1 y 50mV para el 2
+6 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 4.0 seteamos los thresholds en 32mV para el canal 1 y 57mV para el 2
+1 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 39.0 seteamos los thresholds en 8mV para el canal 1 y 4mV para el 2
+242 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+242 eventos iniciales
+Para el rate 36.5 seteamos los thresholds en 10mV para el canal 1 y 8mV para el 2
+149 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 34.0 seteamos los thresholds en 12mV para el canal 1 y 14mV para el 2
+142 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+142 eventos iniciales
+Para el rate 31.5 seteamos los thresholds en 13mV para el canal 1 y 20mV para el 2
+125 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 29.0 seteamos los thresholds en 15mV para el canal 1 y 24mV para el 2
+96 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+97 eventos iniciales
+Para el rate 26.5 seteamos los thresholds en 16mV para el canal 1 y 27mV para el 2
+75 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+172 eventos iniciales
+Para el rate 24.0 seteamos los thresholds en 17mV para el canal 1 y 30mV para el 2
+63 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+235 eventos iniciales
+Para el rate 21.5 seteamos los thresholds en 18mV para el canal 1 y 33mV para el 2
+59 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 19.0 seteamos los thresholds en 21mV para el canal 1 y 36mV para el 2
+33 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+33 eventos iniciales
+Para el rate 16.5 seteamos los thresholds en 22mV para el canal 1 y 38mV para el 2
+25 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+58 eventos iniciales
+Para el rate 14.0 seteamos los thresholds en 24mV para el canal 1 y 41mV para el 2
+17 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+75 eventos iniciales
+Para el rate 11.5 seteamos los thresholds en 25mV para el canal 1 y 43mV para el 2
+12 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+87 eventos iniciales
+Para el rate 9.0 seteamos los thresholds en 27mV para el canal 1 y 46mV para el 2
+12 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+99 eventos iniciales
+Para el rate 6.5 seteamos los thresholds en 29mV para el canal 1 y 50mV para el 2
+2 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 4.0 seteamos los thresholds en 32mV para el canal 1 y 57mV para el 2
+2 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+1 eventos iniciales
+Para el rate 39.0 seteamos los thresholds en 8mV para el canal 1 y 4mV para el 2
+200 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+201 eventos iniciales
+Para el rate 36.5 seteamos los thresholds en 10mV para el canal 1 y 8mV para el 2
+188 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 34.0 seteamos los thresholds en 12mV para el canal 1 y 14mV para el 2
+149 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+149 eventos iniciales
+Para el rate 31.5 seteamos los thresholds en 13mV para el canal 1 y 20mV para el 2
+137 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 29.0 seteamos los thresholds en 15mV para el canal 1 y 24mV para el 2
+101 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+101 eventos iniciales
+Para el rate 26.5 seteamos los thresholds en 16mV para el canal 1 y 27mV para el 2
+64 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+165 eventos iniciales
+Para el rate 24.0 seteamos los thresholds en 17mV para el canal 1 y 30mV para el 2
+56 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+221 eventos iniciales
+Para el rate 21.5 seteamos los thresholds en 18mV para el canal 1 y 33mV para el 2
+40 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 19.0 seteamos los thresholds en 21mV para el canal 1 y 36mV para el 2
+23 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+23 eventos iniciales
+Para el rate 16.5 seteamos los thresholds en 22mV para el canal 1 y 38mV para el 2
+28 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+51 eventos iniciales
+Para el rate 14.0 seteamos los thresholds en 24mV para el canal 1 y 41mV para el 2
+13 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+64 eventos iniciales
+Para el rate 11.5 seteamos los thresholds en 25mV para el canal 1 y 43mV para el 2
+10 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+74 eventos iniciales
+Para el rate 9.0 seteamos los thresholds en 27mV para el canal 1 y 46mV para el 2
+3 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+77 eventos iniciales
+Para el rate 6.5 seteamos los thresholds en 29mV para el canal 1 y 50mV para el 2
+2 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 4.0 seteamos los thresholds en 32mV para el canal 1 y 57mV para el 2
+2 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+1 eventos iniciales
+Para el rate 39.0 seteamos los thresholds en 8mV para el canal 1 y 4mV para el 2
+210 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+211 eventos iniciales
+Para el rate 36.5 seteamos los thresholds en 10mV para el canal 1 y 8mV para el 2
+165 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+1 eventos iniciales
+Para el rate 34.0 seteamos los thresholds en 12mV para el canal 1 y 14mV para el 2
+149 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+150 eventos iniciales
+Para el rate 31.5 seteamos los thresholds en 13mV para el canal 1 y 20mV para el 2
+124 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+1 eventos iniciales
+Para el rate 29.0 seteamos los thresholds en 15mV para el canal 1 y 24mV para el 2
+95 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+96 eventos iniciales
+Para el rate 26.5 seteamos los thresholds en 16mV para el canal 1 y 27mV para el 2
+75 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+171 eventos iniciales
+Para el rate 24.0 seteamos los thresholds en 17mV para el canal 1 y 30mV para el 2
+56 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+228 eventos iniciales
+Para el rate 21.5 seteamos los thresholds en 18mV para el canal 1 y 33mV para el 2
+59 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 19.0 seteamos los thresholds en 21mV para el canal 1 y 36mV para el 2
+28 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+28 eventos iniciales
+Para el rate 16.5 seteamos los thresholds en 22mV para el canal 1 y 38mV para el 2
+19 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+47 eventos iniciales
+Para el rate 14.0 seteamos los thresholds en 24mV para el canal 1 y 41mV para el 2
+17 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+64 eventos iniciales
+Para el rate 11.5 seteamos los thresholds en 25mV para el canal 1 y 43mV para el 2
+10 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+74 eventos iniciales
+Para el rate 9.0 seteamos los thresholds en 27mV para el canal 1 y 46mV para el 2
+3 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+77 eventos iniciales
+Para el rate 6.5 seteamos los thresholds en 29mV para el canal 1 y 50mV para el 2
+6 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 4.0 seteamos los thresholds en 32mV para el canal 1 y 57mV para el 2
+2 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+1 eventos iniciales
+Para el rate 39.0 seteamos los thresholds en 8mV para el canal 1 y 4mV para el 2
+221 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+222 eventos iniciales
+Para el rate 36.5 seteamos los thresholds en 10mV para el canal 1 y 8mV para el 2
+195 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 34.0 seteamos los thresholds en 12mV para el canal 1 y 14mV para el 2
+130 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+130 eventos iniciales
+Para el rate 31.5 seteamos los thresholds en 13mV para el canal 1 y 20mV para el 2
+122 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+1 eventos iniciales
+Para el rate 29.0 seteamos los thresholds en 15mV para el canal 1 y 24mV para el 2
+86 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+87 eventos iniciales
+Para el rate 26.5 seteamos los thresholds en 16mV para el canal 1 y 27mV para el 2
+73 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+160 eventos iniciales
+Para el rate 24.0 seteamos los thresholds en 17mV para el canal 1 y 30mV para el 2
+47 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+207 eventos iniciales
+Para el rate 21.5 seteamos los thresholds en 18mV para el canal 1 y 33mV para el 2
+42 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 19.0 seteamos los thresholds en 21mV para el canal 1 y 36mV para el 2
+31 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+31 eventos iniciales
+Para el rate 16.5 seteamos los thresholds en 22mV para el canal 1 y 38mV para el 2
+16 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+47 eventos iniciales
+Para el rate 14.0 seteamos los thresholds en 24mV para el canal 1 y 41mV para el 2
+12 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+59 eventos iniciales
+Para el rate 11.5 seteamos los thresholds en 25mV para el canal 1 y 43mV para el 2
+6 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+65 eventos iniciales
+Para el rate 9.0 seteamos los thresholds en 27mV para el canal 1 y 46mV para el 2
+11 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+76 eventos iniciales
+Para el rate 6.5 seteamos los thresholds en 29mV para el canal 1 y 50mV para el 2
+1 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 4.0 seteamos los thresholds en 32mV para el canal 1 y 57mV para el 2
+1 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 39.0 seteamos los thresholds en 8mV para el canal 1 y 4mV para el 2
+209 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+209 eventos iniciales
+Para el rate 36.5 seteamos los thresholds en 10mV para el canal 1 y 8mV para el 2
+180 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+1 eventos iniciales
+Para el rate 34.0 seteamos los thresholds en 12mV para el canal 1 y 14mV para el 2
+142 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+143 eventos iniciales
+Para el rate 31.5 seteamos los thresholds en 13mV para el canal 1 y 20mV para el 2
+114 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+1 eventos iniciales
+Para el rate 29.0 seteamos los thresholds en 15mV para el canal 1 y 24mV para el 2
+84 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+85 eventos iniciales
+Para el rate 26.5 seteamos los thresholds en 16mV para el canal 1 y 27mV para el 2
+71 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+156 eventos iniciales
+Para el rate 24.0 seteamos los thresholds en 17mV para el canal 1 y 30mV para el 2
+43 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+199 eventos iniciales
+Para el rate 21.5 seteamos los thresholds en 18mV para el canal 1 y 33mV para el 2
+51 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 19.0 seteamos los thresholds en 21mV para el canal 1 y 36mV para el 2
+22 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+22 eventos iniciales
+Para el rate 16.5 seteamos los thresholds en 22mV para el canal 1 y 38mV para el 2
+15 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+37 eventos iniciales
+Para el rate 14.0 seteamos los thresholds en 24mV para el canal 1 y 41mV para el 2
+18 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+55 eventos iniciales
+Para el rate 11.5 seteamos los thresholds en 25mV para el canal 1 y 43mV para el 2
+7 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+62 eventos iniciales
+Para el rate 9.0 seteamos los thresholds en 27mV para el canal 1 y 46mV para el 2
+8 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+70 eventos iniciales
+Para el rate 6.5 seteamos los thresholds en 29mV para el canal 1 y 50mV para el 2
+2 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 4.0 seteamos los thresholds en 32mV para el canal 1 y 57mV para el 2
+3 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+2 eventos iniciales
+Para el rate 39.0 seteamos los thresholds en 8mV para el canal 1 y 4mV para el 2
+234 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+236 eventos iniciales
+Para el rate 36.5 seteamos los thresholds en 10mV para el canal 1 y 8mV para el 2
+175 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 34.0 seteamos los thresholds en 12mV para el canal 1 y 14mV para el 2
+138 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+138 eventos iniciales
+Para el rate 31.5 seteamos los thresholds en 13mV para el canal 1 y 20mV para el 2
+104 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 29.0 seteamos los thresholds en 15mV para el canal 1 y 24mV para el 2
+92 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+92 eventos iniciales
+Para el rate 26.5 seteamos los thresholds en 16mV para el canal 1 y 27mV para el 2
+69 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+162 eventos iniciales
+Para el rate 24.0 seteamos los thresholds en 17mV para el canal 1 y 30mV para el 2
+49 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+211 eventos iniciales
+Para el rate 21.5 seteamos los thresholds en 18mV para el canal 1 y 33mV para el 2
+35 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 19.0 seteamos los thresholds en 21mV para el canal 1 y 36mV para el 2
+20 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+20 eventos iniciales
+Para el rate 16.5 seteamos los thresholds en 22mV para el canal 1 y 38mV para el 2
+12 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+32 eventos iniciales
+Para el rate 14.0 seteamos los thresholds en 24mV para el canal 1 y 41mV para el 2
+8 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+40 eventos iniciales
+Para el rate 11.5 seteamos los thresholds en 25mV para el canal 1 y 43mV para el 2
+6 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+46 eventos iniciales
+Para el rate 9.0 seteamos los thresholds en 27mV para el canal 1 y 46mV para el 2
+5 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+51 eventos iniciales
+Para el rate 6.5 seteamos los thresholds en 29mV para el canal 1 y 50mV para el 2
+2 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 4.0 seteamos los thresholds en 32mV para el canal 1 y 57mV para el 2
+3 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 39.0 seteamos los thresholds en 8mV para el canal 1 y 4mV para el 2
+219 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+219 eventos iniciales
+Para el rate 36.5 seteamos los thresholds en 10mV para el canal 1 y 8mV para el 2
+158 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 34.0 seteamos los thresholds en 12mV para el canal 1 y 14mV para el 2
+136 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+136 eventos iniciales
+Para el rate 31.5 seteamos los thresholds en 13mV para el canal 1 y 20mV para el 2
+109 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 29.0 seteamos los thresholds en 15mV para el canal 1 y 24mV para el 2
+96 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+96 eventos iniciales
+Para el rate 26.5 seteamos los thresholds en 16mV para el canal 1 y 27mV para el 2
+77 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+173 eventos iniciales
+Para el rate 24.0 seteamos los thresholds en 17mV para el canal 1 y 30mV para el 2
+56 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+229 eventos iniciales
+Para el rate 21.5 seteamos los thresholds en 18mV para el canal 1 y 33mV para el 2
+33 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 19.0 seteamos los thresholds en 21mV para el canal 1 y 36mV para el 2
+29 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+29 eventos iniciales
+Para el rate 16.5 seteamos los thresholds en 22mV para el canal 1 y 38mV para el 2
+17 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+46 eventos iniciales
+Para el rate 14.0 seteamos los thresholds en 24mV para el canal 1 y 41mV para el 2
+14 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+60 eventos iniciales
+Para el rate 11.5 seteamos los thresholds en 25mV para el canal 1 y 43mV para el 2
+14 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+74 eventos iniciales
+Para el rate 9.0 seteamos los thresholds en 27mV para el canal 1 y 46mV para el 2
+7 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+81 eventos iniciales
+Para el rate 6.5 seteamos los thresholds en 29mV para el canal 1 y 50mV para el 2
+2 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 4.0 seteamos los thresholds en 32mV para el canal 1 y 57mV para el 2
+6 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 39.0 seteamos los thresholds en 8mV para el canal 1 y 4mV para el 2
+215 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+215 eventos iniciales
+Para el rate 36.5 seteamos los thresholds en 10mV para el canal 1 y 8mV para el 2
+178 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 34.0 seteamos los thresholds en 12mV para el canal 1 y 14mV para el 2
+160 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+161 eventos iniciales
+Para el rate 31.5 seteamos los thresholds en 13mV para el canal 1 y 20mV para el 2
+138 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 29.0 seteamos los thresholds en 15mV para el canal 1 y 24mV para el 2
+92 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+92 eventos iniciales
+Para el rate 26.5 seteamos los thresholds en 16mV para el canal 1 y 27mV para el 2
+69 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+161 eventos iniciales
+Para el rate 24.0 seteamos los thresholds en 17mV para el canal 1 y 30mV para el 2
+58 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+219 eventos iniciales
+Para el rate 21.5 seteamos los thresholds en 18mV para el canal 1 y 33mV para el 2
+45 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 19.0 seteamos los thresholds en 21mV para el canal 1 y 36mV para el 2
+29 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+29 eventos iniciales
+Para el rate 16.5 seteamos los thresholds en 22mV para el canal 1 y 38mV para el 2
+19 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+48 eventos iniciales
+Para el rate 14.0 seteamos los thresholds en 24mV para el canal 1 y 41mV para el 2
+9 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+57 eventos iniciales
+Para el rate 11.5 seteamos los thresholds en 25mV para el canal 1 y 43mV para el 2
+6 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+63 eventos iniciales
+Para el rate 9.0 seteamos los thresholds en 27mV para el canal 1 y 46mV para el 2
+4 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+67 eventos iniciales
+Para el rate 6.5 seteamos los thresholds en 29mV para el canal 1 y 50mV para el 2
+4 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 4.0 seteamos los thresholds en 32mV para el canal 1 y 57mV para el 2
+4 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 39.0 seteamos los thresholds en 8mV para el canal 1 y 4mV para el 2
+253 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+253 eventos iniciales
+Para el rate 36.5 seteamos los thresholds en 10mV para el canal 1 y 8mV para el 2
+171 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 34.0 seteamos los thresholds en 12mV para el canal 1 y 14mV para el 2
+154 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+154 eventos iniciales
+Para el rate 31.5 seteamos los thresholds en 13mV para el canal 1 y 20mV para el 2
+125 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 29.0 seteamos los thresholds en 15mV para el canal 1 y 24mV para el 2
+87 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+88 eventos iniciales
+Para el rate 26.5 seteamos los thresholds en 16mV para el canal 1 y 27mV para el 2
+77 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+165 eventos iniciales
+Para el rate 24.0 seteamos los thresholds en 17mV para el canal 1 y 30mV para el 2
+51 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+217 eventos iniciales
+Para el rate 21.5 seteamos los thresholds en 18mV para el canal 1 y 33mV para el 2
+37 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 19.0 seteamos los thresholds en 21mV para el canal 1 y 36mV para el 2
+34 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+34 eventos iniciales
+Para el rate 16.5 seteamos los thresholds en 22mV para el canal 1 y 38mV para el 2
+21 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+55 eventos iniciales
+Para el rate 14.0 seteamos los thresholds en 24mV para el canal 1 y 41mV para el 2
+16 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+71 eventos iniciales
+Para el rate 11.5 seteamos los thresholds en 25mV para el canal 1 y 43mV para el 2
+7 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+78 eventos iniciales
+Para el rate 9.0 seteamos los thresholds en 27mV para el canal 1 y 46mV para el 2
+5 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+83 eventos iniciales
+Para el rate 6.5 seteamos los thresholds en 29mV para el canal 1 y 50mV para el 2
+1 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 4.0 seteamos los thresholds en 32mV para el canal 1 y 57mV para el 2
+0 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 39.0 seteamos los thresholds en 8mV para el canal 1 y 4mV para el 2
+176 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+176 eventos iniciales
+Para el rate 36.5 seteamos los thresholds en 10mV para el canal 1 y 8mV para el 2
+159 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 34.0 seteamos los thresholds en 12mV para el canal 1 y 14mV para el 2
+125 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+125 eventos iniciales
+Para el rate 31.5 seteamos los thresholds en 13mV para el canal 1 y 20mV para el 2
+131 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 29.0 seteamos los thresholds en 15mV para el canal 1 y 24mV para el 2
+95 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+95 eventos iniciales
+Para el rate 26.5 seteamos los thresholds en 16mV para el canal 1 y 27mV para el 2
+82 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+177 eventos iniciales
+Para el rate 24.0 seteamos los thresholds en 17mV para el canal 1 y 30mV para el 2
+55 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+232 eventos iniciales
+Para el rate 21.5 seteamos los thresholds en 18mV para el canal 1 y 33mV para el 2
+32 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 19.0 seteamos los thresholds en 21mV para el canal 1 y 36mV para el 2
+36 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+36 eventos iniciales
+Para el rate 16.5 seteamos los thresholds en 22mV para el canal 1 y 38mV para el 2
+11 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+47 eventos iniciales
+Para el rate 14.0 seteamos los thresholds en 24mV para el canal 1 y 41mV para el 2
+21 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+68 eventos iniciales
+Para el rate 11.5 seteamos los thresholds en 25mV para el canal 1 y 43mV para el 2
+9 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+77 eventos iniciales
+Para el rate 9.0 seteamos los thresholds en 27mV para el canal 1 y 46mV para el 2
+7 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+84 eventos iniciales
+Para el rate 6.5 seteamos los thresholds en 29mV para el canal 1 y 50mV para el 2
+3 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 4.0 seteamos los thresholds en 32mV para el canal 1 y 57mV para el 2
+1 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 39.0 seteamos los thresholds en 8mV para el canal 1 y 4mV para el 2
+224 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+225 eventos iniciales
+Para el rate 36.5 seteamos los thresholds en 10mV para el canal 1 y 8mV para el 2
+175 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 34.0 seteamos los thresholds en 12mV para el canal 1 y 14mV para el 2
+164 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+164 eventos iniciales
+Para el rate 31.5 seteamos los thresholds en 13mV para el canal 1 y 20mV para el 2
+132 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 29.0 seteamos los thresholds en 15mV para el canal 1 y 24mV para el 2
+102 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+102 eventos iniciales
+Para el rate 26.5 seteamos los thresholds en 16mV para el canal 1 y 27mV para el 2
+55 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+157 eventos iniciales
+Para el rate 24.0 seteamos los thresholds en 17mV para el canal 1 y 30mV para el 2
+64 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+221 eventos iniciales
+Para el rate 21.5 seteamos los thresholds en 18mV para el canal 1 y 33mV para el 2
+41 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 19.0 seteamos los thresholds en 21mV para el canal 1 y 36mV para el 2
+24 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+24 eventos iniciales
+Para el rate 16.5 seteamos los thresholds en 22mV para el canal 1 y 38mV para el 2
+10 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+34 eventos iniciales
+Para el rate 14.0 seteamos los thresholds en 24mV para el canal 1 y 41mV para el 2
+10 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+44 eventos iniciales
+Para el rate 11.5 seteamos los thresholds en 25mV para el canal 1 y 43mV para el 2
+9 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+53 eventos iniciales
+Para el rate 9.0 seteamos los thresholds en 27mV para el canal 1 y 46mV para el 2
+8 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+61 eventos iniciales
+Para el rate 6.5 seteamos los thresholds en 29mV para el canal 1 y 50mV para el 2
+4 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 4.0 seteamos los thresholds en 32mV para el canal 1 y 57mV para el 2
+2 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 39.0 seteamos los thresholds en 8mV para el canal 1 y 4mV para el 2
+203 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+203 eventos iniciales
+Para el rate 36.5 seteamos los thresholds en 10mV para el canal 1 y 8mV para el 2
+160 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 34.0 seteamos los thresholds en 12mV para el canal 1 y 14mV para el 2
+144 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+144 eventos iniciales
+Para el rate 31.5 seteamos los thresholds en 13mV para el canal 1 y 20mV para el 2
+121 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 29.0 seteamos los thresholds en 15mV para el canal 1 y 24mV para el 2
+96 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+96 eventos iniciales
+Para el rate 26.5 seteamos los thresholds en 16mV para el canal 1 y 27mV para el 2
+74 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+170 eventos iniciales
+Para el rate 24.0 seteamos los thresholds en 17mV para el canal 1 y 30mV para el 2
+53 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+223 eventos iniciales
+Para el rate 21.5 seteamos los thresholds en 18mV para el canal 1 y 33mV para el 2
+57 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 19.0 seteamos los thresholds en 21mV para el canal 1 y 36mV para el 2
+24 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+24 eventos iniciales
+Para el rate 16.5 seteamos los thresholds en 22mV para el canal 1 y 38mV para el 2
+21 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+45 eventos iniciales
+Para el rate 14.0 seteamos los thresholds en 24mV para el canal 1 y 41mV para el 2
+10 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+55 eventos iniciales
+Para el rate 11.5 seteamos los thresholds en 25mV para el canal 1 y 43mV para el 2
+8 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+63 eventos iniciales
+Para el rate 9.0 seteamos los thresholds en 27mV para el canal 1 y 46mV para el 2
+4 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+67 eventos iniciales
+Para el rate 6.5 seteamos los thresholds en 29mV para el canal 1 y 50mV para el 2
+6 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 4.0 seteamos los thresholds en 32mV para el canal 1 y 57mV para el 2
+0 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 39.0 seteamos los thresholds en 8mV para el canal 1 y 4mV para el 2
+228 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+228 eventos iniciales
+Para el rate 36.5 seteamos los thresholds en 10mV para el canal 1 y 8mV para el 2
+145 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+1 eventos iniciales
+Para el rate 34.0 seteamos los thresholds en 12mV para el canal 1 y 14mV para el 2
+128 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+130 eventos iniciales
+Para el rate 31.5 seteamos los thresholds en 13mV para el canal 1 y 20mV para el 2
+91 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 29.0 seteamos los thresholds en 15mV para el canal 1 y 24mV para el 2
+82 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+82 eventos iniciales
+Para el rate 26.5 seteamos los thresholds en 16mV para el canal 1 y 27mV para el 2
+71 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+153 eventos iniciales
+Para el rate 24.0 seteamos los thresholds en 17mV para el canal 1 y 30mV para el 2
+40 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+193 eventos iniciales
+Para el rate 21.5 seteamos los thresholds en 18mV para el canal 1 y 33mV para el 2
+34 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 19.0 seteamos los thresholds en 21mV para el canal 1 y 36mV para el 2
+12 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+12 eventos iniciales
+Para el rate 16.5 seteamos los thresholds en 22mV para el canal 1 y 38mV para el 2
+19 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+31 eventos iniciales
+Para el rate 14.0 seteamos los thresholds en 24mV para el canal 1 y 41mV para el 2
+6 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+37 eventos iniciales
+Para el rate 11.5 seteamos los thresholds en 25mV para el canal 1 y 43mV para el 2
+11 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+48 eventos iniciales
+Para el rate 9.0 seteamos los thresholds en 27mV para el canal 1 y 46mV para el 2
+5 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+53 eventos iniciales
+Para el rate 6.5 seteamos los thresholds en 29mV para el canal 1 y 50mV para el 2
+3 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 4.0 seteamos los thresholds en 32mV para el canal 1 y 57mV para el 2
+0 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 39.0 seteamos los thresholds en 8mV para el canal 1 y 4mV para el 2
+209 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+209 eventos iniciales
+Para el rate 36.5 seteamos los thresholds en 10mV para el canal 1 y 8mV para el 2
+132 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 34.0 seteamos los thresholds en 12mV para el canal 1 y 14mV para el 2
+133 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+133 eventos iniciales
+Para el rate 31.5 seteamos los thresholds en 13mV para el canal 1 y 20mV para el 2
+108 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 29.0 seteamos los thresholds en 15mV para el canal 1 y 24mV para el 2
+73 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+73 eventos iniciales
+Para el rate 26.5 seteamos los thresholds en 16mV para el canal 1 y 27mV para el 2
+51 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+124 eventos iniciales
+Para el rate 24.0 seteamos los thresholds en 17mV para el canal 1 y 30mV para el 2
+35 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+160 eventos iniciales
+Para el rate 21.5 seteamos los thresholds en 18mV para el canal 1 y 33mV para el 2
+25 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 19.0 seteamos los thresholds en 21mV para el canal 1 y 36mV para el 2
+17 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+17 eventos iniciales
+Para el rate 16.5 seteamos los thresholds en 22mV para el canal 1 y 38mV para el 2
+12 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+29 eventos iniciales
+Para el rate 14.0 seteamos los thresholds en 24mV para el canal 1 y 41mV para el 2
+13 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+42 eventos iniciales
+Para el rate 11.5 seteamos los thresholds en 25mV para el canal 1 y 43mV para el 2
+7 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+49 eventos iniciales
+Para el rate 9.0 seteamos los thresholds en 27mV para el canal 1 y 46mV para el 2
+3 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+52 eventos iniciales
+Para el rate 6.5 seteamos los thresholds en 29mV para el canal 1 y 50mV para el 2
+0 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 4.0 seteamos los thresholds en 32mV para el canal 1 y 57mV para el 2
+2 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 39.0 seteamos los thresholds en 8mV para el canal 1 y 4mV para el 2
+217 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+217 eventos iniciales
+Para el rate 36.5 seteamos los thresholds en 10mV para el canal 1 y 8mV para el 2
+164 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+1 eventos iniciales
+Para el rate 34.0 seteamos los thresholds en 12mV para el canal 1 y 14mV para el 2
+128 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+129 eventos iniciales
+Para el rate 31.5 seteamos los thresholds en 13mV para el canal 1 y 20mV para el 2
+98 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 29.0 seteamos los thresholds en 15mV para el canal 1 y 24mV para el 2
+74 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+74 eventos iniciales
+Para el rate 26.5 seteamos los thresholds en 16mV para el canal 1 y 27mV para el 2
+62 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+136 eventos iniciales
+Para el rate 24.0 seteamos los thresholds en 17mV para el canal 1 y 30mV para el 2
+42 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+179 eventos iniciales
+Para el rate 21.5 seteamos los thresholds en 18mV para el canal 1 y 33mV para el 2
+33 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 19.0 seteamos los thresholds en 21mV para el canal 1 y 36mV para el 2
+17 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+17 eventos iniciales
+Para el rate 16.5 seteamos los thresholds en 22mV para el canal 1 y 38mV para el 2
+17 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+34 eventos iniciales
+Para el rate 14.0 seteamos los thresholds en 24mV para el canal 1 y 41mV para el 2
+7 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+41 eventos iniciales
+Para el rate 11.5 seteamos los thresholds en 25mV para el canal 1 y 43mV para el 2
+5 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+46 eventos iniciales
+Para el rate 9.0 seteamos los thresholds en 27mV para el canal 1 y 46mV para el 2
+9 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+55 eventos iniciales
+Para el rate 6.5 seteamos los thresholds en 29mV para el canal 1 y 50mV para el 2
+4 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 4.0 seteamos los thresholds en 32mV para el canal 1 y 57mV para el 2
+0 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+1 eventos iniciales
+Para el rate 39.0 seteamos los thresholds en 8mV para el canal 1 y 4mV para el 2
+194 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+196 eventos iniciales
+Para el rate 36.5 seteamos los thresholds en 10mV para el canal 1 y 8mV para el 2
+155 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 34.0 seteamos los thresholds en 12mV para el canal 1 y 14mV para el 2
+157 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+157 eventos iniciales
+Para el rate 31.5 seteamos los thresholds en 13mV para el canal 1 y 20mV para el 2
+110 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 29.0 seteamos los thresholds en 15mV para el canal 1 y 24mV para el 2
+62 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+62 eventos iniciales
+Para el rate 26.5 seteamos los thresholds en 16mV para el canal 1 y 27mV para el 2
+58 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+120 eventos iniciales
+Para el rate 24.0 seteamos los thresholds en 17mV para el canal 1 y 30mV para el 2
+39 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+159 eventos iniciales
+Para el rate 21.5 seteamos los thresholds en 18mV para el canal 1 y 33mV para el 2
+34 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 19.0 seteamos los thresholds en 21mV para el canal 1 y 36mV para el 2
+18 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+18 eventos iniciales
+Para el rate 16.5 seteamos los thresholds en 22mV para el canal 1 y 38mV para el 2
+15 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+33 eventos iniciales
+Para el rate 14.0 seteamos los thresholds en 24mV para el canal 1 y 41mV para el 2
+11 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+44 eventos iniciales
+Para el rate 11.5 seteamos los thresholds en 25mV para el canal 1 y 43mV para el 2
+6 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+50 eventos iniciales
+Para el rate 9.0 seteamos los thresholds en 27mV para el canal 1 y 46mV para el 2
+4 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+54 eventos iniciales
+Para el rate 6.5 seteamos los thresholds en 29mV para el canal 1 y 50mV para el 2
+3 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 4.0 seteamos los thresholds en 32mV para el canal 1 y 57mV para el 2
+0 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 39.0 seteamos los thresholds en 8mV para el canal 1 y 4mV para el 2
+188 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+189 eventos iniciales
+Para el rate 36.5 seteamos los thresholds en 10mV para el canal 1 y 8mV para el 2
+152 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 34.0 seteamos los thresholds en 12mV para el canal 1 y 14mV para el 2
+132 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+132 eventos iniciales
+Para el rate 31.5 seteamos los thresholds en 13mV para el canal 1 y 20mV para el 2
+101 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+2 eventos iniciales
+Para el rate 29.0 seteamos los thresholds en 15mV para el canal 1 y 24mV para el 2
+75 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+79 eventos iniciales
+Para el rate 26.5 seteamos los thresholds en 16mV para el canal 1 y 27mV para el 2
+55 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+135 eventos iniciales
+Para el rate 24.0 seteamos los thresholds en 17mV para el canal 1 y 30mV para el 2
+42 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+177 eventos iniciales
+Para el rate 21.5 seteamos los thresholds en 18mV para el canal 1 y 33mV para el 2
+30 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 19.0 seteamos los thresholds en 21mV para el canal 1 y 36mV para el 2
+10 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+10 eventos iniciales
+Para el rate 16.5 seteamos los thresholds en 22mV para el canal 1 y 38mV para el 2
+13 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+23 eventos iniciales
+Para el rate 14.0 seteamos los thresholds en 24mV para el canal 1 y 41mV para el 2
+13 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+36 eventos iniciales
+Para el rate 11.5 seteamos los thresholds en 25mV para el canal 1 y 43mV para el 2
+3 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+39 eventos iniciales
+Para el rate 9.0 seteamos los thresholds en 27mV para el canal 1 y 46mV para el 2
+5 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+44 eventos iniciales
+Para el rate 6.5 seteamos los thresholds en 29mV para el canal 1 y 50mV para el 2
+2 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 4.0 seteamos los thresholds en 32mV para el canal 1 y 57mV para el 2
+1 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 39.0 seteamos los thresholds en 8mV para el canal 1 y 4mV para el 2
+199 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+199 eventos iniciales
+Para el rate 36.5 seteamos los thresholds en 10mV para el canal 1 y 8mV para el 2
+162 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 34.0 seteamos los thresholds en 12mV para el canal 1 y 14mV para el 2
+122 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+122 eventos iniciales
+Para el rate 31.5 seteamos los thresholds en 13mV para el canal 1 y 20mV para el 2
+105 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 29.0 seteamos los thresholds en 15mV para el canal 1 y 24mV para el 2
+82 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+83 eventos iniciales
+Para el rate 26.5 seteamos los thresholds en 16mV para el canal 1 y 27mV para el 2
+60 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+143 eventos iniciales
+Para el rate 24.0 seteamos los thresholds en 17mV para el canal 1 y 30mV para el 2
+51 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+194 eventos iniciales
+Para el rate 21.5 seteamos los thresholds en 18mV para el canal 1 y 33mV para el 2
+32 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 19.0 seteamos los thresholds en 21mV para el canal 1 y 36mV para el 2
+16 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+16 eventos iniciales
+Para el rate 16.5 seteamos los thresholds en 22mV para el canal 1 y 38mV para el 2
+12 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+28 eventos iniciales
+Para el rate 14.0 seteamos los thresholds en 24mV para el canal 1 y 41mV para el 2
+13 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+41 eventos iniciales
+Para el rate 11.5 seteamos los thresholds en 25mV para el canal 1 y 43mV para el 2
+10 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+51 eventos iniciales
+Para el rate 9.0 seteamos los thresholds en 27mV para el canal 1 y 46mV para el 2
+8 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+59 eventos iniciales
+Para el rate 6.5 seteamos los thresholds en 29mV para el canal 1 y 50mV para el 2
+6 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 4.0 seteamos los thresholds en 32mV para el canal 1 y 57mV para el 2
+2 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 39.0 seteamos los thresholds en 8mV para el canal 1 y 4mV para el 2
+202 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+202 eventos iniciales
+Para el rate 36.5 seteamos los thresholds en 10mV para el canal 1 y 8mV para el 2
+169 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 34.0 seteamos los thresholds en 12mV para el canal 1 y 14mV para el 2
+108 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+108 eventos iniciales
+Para el rate 31.5 seteamos los thresholds en 13mV para el canal 1 y 20mV para el 2
+110 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 29.0 seteamos los thresholds en 15mV para el canal 1 y 24mV para el 2
+100 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+100 eventos iniciales
+Para el rate 26.5 seteamos los thresholds en 16mV para el canal 1 y 27mV para el 2
+52 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+152 eventos iniciales
+Para el rate 24.0 seteamos los thresholds en 17mV para el canal 1 y 30mV para el 2
+33 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+185 eventos iniciales
+Para el rate 21.5 seteamos los thresholds en 18mV para el canal 1 y 33mV para el 2
+32 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 19.0 seteamos los thresholds en 21mV para el canal 1 y 36mV para el 2
+21 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+21 eventos iniciales
+Para el rate 16.5 seteamos los thresholds en 22mV para el canal 1 y 38mV para el 2
+11 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+32 eventos iniciales
+Para el rate 14.0 seteamos los thresholds en 24mV para el canal 1 y 41mV para el 2
+5 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+37 eventos iniciales
+Para el rate 11.5 seteamos los thresholds en 25mV para el canal 1 y 43mV para el 2
+4 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+41 eventos iniciales
+Para el rate 9.0 seteamos los thresholds en 27mV para el canal 1 y 46mV para el 2
+4 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+45 eventos iniciales
+Para el rate 6.5 seteamos los thresholds en 29mV para el canal 1 y 50mV para el 2
+3 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 4.0 seteamos los thresholds en 32mV para el canal 1 y 57mV para el 2
+2 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 39.0 seteamos los thresholds en 8mV para el canal 1 y 4mV para el 2
+196 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+196 eventos iniciales
+Para el rate 36.5 seteamos los thresholds en 10mV para el canal 1 y 8mV para el 2
+159 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 34.0 seteamos los thresholds en 12mV para el canal 1 y 14mV para el 2
+123 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+123 eventos iniciales
+Para el rate 31.5 seteamos los thresholds en 13mV para el canal 1 y 20mV para el 2
+109 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 29.0 seteamos los thresholds en 15mV para el canal 1 y 24mV para el 2
+73 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+73 eventos iniciales
+Para el rate 26.5 seteamos los thresholds en 16mV para el canal 1 y 27mV para el 2
+71 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+144 eventos iniciales
+Para el rate 24.0 seteamos los thresholds en 17mV para el canal 1 y 30mV para el 2
+45 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+189 eventos iniciales
+Para el rate 21.5 seteamos los thresholds en 18mV para el canal 1 y 33mV para el 2
+30 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 19.0 seteamos los thresholds en 21mV para el canal 1 y 36mV para el 2
+15 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+15 eventos iniciales
+Para el rate 16.5 seteamos los thresholds en 22mV para el canal 1 y 38mV para el 2
+13 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+28 eventos iniciales
+Para el rate 14.0 seteamos los thresholds en 24mV para el canal 1 y 41mV para el 2
+9 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+37 eventos iniciales
+Para el rate 11.5 seteamos los thresholds en 25mV para el canal 1 y 43mV para el 2
+13 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+50 eventos iniciales
+Para el rate 9.0 seteamos los thresholds en 27mV para el canal 1 y 46mV para el 2
+3 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+53 eventos iniciales
+Para el rate 6.5 seteamos los thresholds en 29mV para el canal 1 y 50mV para el 2
+6 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 4.0 seteamos los thresholds en 32mV para el canal 1 y 57mV para el 2
+7 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 39.0 seteamos los thresholds en 8mV para el canal 1 y 4mV para el 2
+186 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+187 eventos iniciales
+Para el rate 36.5 seteamos los thresholds en 10mV para el canal 1 y 8mV para el 2
+158 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 34.0 seteamos los thresholds en 12mV para el canal 1 y 14mV para el 2
+133 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+134 eventos iniciales
+Para el rate 31.5 seteamos los thresholds en 13mV para el canal 1 y 20mV para el 2
+113 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 29.0 seteamos los thresholds en 15mV para el canal 1 y 24mV para el 2
+82 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+83 eventos iniciales
+Para el rate 26.5 seteamos los thresholds en 16mV para el canal 1 y 27mV para el 2
+71 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+154 eventos iniciales
+Para el rate 24.0 seteamos los thresholds en 17mV para el canal 1 y 30mV para el 2
+46 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+200 eventos iniciales
+Para el rate 21.5 seteamos los thresholds en 18mV para el canal 1 y 33mV para el 2
+21 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 19.0 seteamos los thresholds en 21mV para el canal 1 y 36mV para el 2
+14 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+14 eventos iniciales
+Para el rate 16.5 seteamos los thresholds en 22mV para el canal 1 y 38mV para el 2
+16 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+30 eventos iniciales
+Para el rate 14.0 seteamos los thresholds en 24mV para el canal 1 y 41mV para el 2
+7 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+37 eventos iniciales
+Para el rate 11.5 seteamos los thresholds en 25mV para el canal 1 y 43mV para el 2
+10 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+47 eventos iniciales
+Para el rate 9.0 seteamos los thresholds en 27mV para el canal 1 y 46mV para el 2
+3 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+50 eventos iniciales
+Para el rate 6.5 seteamos los thresholds en 29mV para el canal 1 y 50mV para el 2
+0 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 4.0 seteamos los thresholds en 32mV para el canal 1 y 57mV para el 2
+1 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 39.0 seteamos los thresholds en 8mV para el canal 1 y 4mV para el 2
+203 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+203 eventos iniciales
+Para el rate 36.5 seteamos los thresholds en 10mV para el canal 1 y 8mV para el 2
+136 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 34.0 seteamos los thresholds en 12mV para el canal 1 y 14mV para el 2
+131 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+131 eventos iniciales
+Para el rate 31.5 seteamos los thresholds en 13mV para el canal 1 y 20mV para el 2
+105 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 29.0 seteamos los thresholds en 15mV para el canal 1 y 24mV para el 2
+70 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+70 eventos iniciales
+Para el rate 26.5 seteamos los thresholds en 16mV para el canal 1 y 27mV para el 2
+68 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+138 eventos iniciales
+Para el rate 24.0 seteamos los thresholds en 17mV para el canal 1 y 30mV para el 2
+45 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+183 eventos iniciales
+Para el rate 21.5 seteamos los thresholds en 18mV para el canal 1 y 33mV para el 2
+27 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 19.0 seteamos los thresholds en 21mV para el canal 1 y 36mV para el 2
+17 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+17 eventos iniciales
+Para el rate 16.5 seteamos los thresholds en 22mV para el canal 1 y 38mV para el 2
+17 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+34 eventos iniciales
+Para el rate 14.0 seteamos los thresholds en 24mV para el canal 1 y 41mV para el 2
+8 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+42 eventos iniciales
+Para el rate 11.5 seteamos los thresholds en 25mV para el canal 1 y 43mV para el 2
+5 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+47 eventos iniciales
+Para el rate 9.0 seteamos los thresholds en 27mV para el canal 1 y 46mV para el 2
+8 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+55 eventos iniciales
+Para el rate 6.5 seteamos los thresholds en 29mV para el canal 1 y 50mV para el 2
+5 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 4.0 seteamos los thresholds en 32mV para el canal 1 y 57mV para el 2
+1 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+1 eventos iniciales
+Para el rate 39.0 seteamos los thresholds en 8mV para el canal 1 y 4mV para el 2
+208 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+209 eventos iniciales
+Para el rate 36.5 seteamos los thresholds en 10mV para el canal 1 y 8mV para el 2
+155 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+1 eventos iniciales
+Para el rate 34.0 seteamos los thresholds en 12mV para el canal 1 y 14mV para el 2
+139 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+140 eventos iniciales
+Para el rate 31.5 seteamos los thresholds en 13mV para el canal 1 y 20mV para el 2
+107 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 29.0 seteamos los thresholds en 15mV para el canal 1 y 24mV para el 2
+63 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+64 eventos iniciales
+Para el rate 26.5 seteamos los thresholds en 16mV para el canal 1 y 27mV para el 2
+51 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+115 eventos iniciales
+Para el rate 24.0 seteamos los thresholds en 17mV para el canal 1 y 30mV para el 2
+56 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+171 eventos iniciales
+Para el rate 21.5 seteamos los thresholds en 18mV para el canal 1 y 33mV para el 2
+48 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 19.0 seteamos los thresholds en 21mV para el canal 1 y 36mV para el 2
+17 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+17 eventos iniciales
+Para el rate 16.5 seteamos los thresholds en 22mV para el canal 1 y 38mV para el 2
+12 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+29 eventos iniciales
+Para el rate 14.0 seteamos los thresholds en 24mV para el canal 1 y 41mV para el 2
+7 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+36 eventos iniciales
+Para el rate 11.5 seteamos los thresholds en 25mV para el canal 1 y 43mV para el 2
+7 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+43 eventos iniciales
+Para el rate 9.0 seteamos los thresholds en 27mV para el canal 1 y 46mV para el 2
+8 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+51 eventos iniciales
+Para el rate 6.5 seteamos los thresholds en 29mV para el canal 1 y 50mV para el 2
+3 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 4.0 seteamos los thresholds en 32mV para el canal 1 y 57mV para el 2
+4 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+1 eventos iniciales
+Para el rate 39.0 seteamos los thresholds en 8mV para el canal 1 y 4mV para el 2
+222 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+223 eventos iniciales
+Para el rate 36.5 seteamos los thresholds en 10mV para el canal 1 y 8mV para el 2
+167 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 34.0 seteamos los thresholds en 12mV para el canal 1 y 14mV para el 2
+129 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+129 eventos iniciales
+Para el rate 31.5 seteamos los thresholds en 13mV para el canal 1 y 20mV para el 2
+127 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 29.0 seteamos los thresholds en 15mV para el canal 1 y 24mV para el 2
+81 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+81 eventos iniciales
+Para el rate 26.5 seteamos los thresholds en 16mV para el canal 1 y 27mV para el 2
+72 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+153 eventos iniciales
+Para el rate 24.0 seteamos los thresholds en 17mV para el canal 1 y 30mV para el 2
+63 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+216 eventos iniciales
+Para el rate 21.5 seteamos los thresholds en 18mV para el canal 1 y 33mV para el 2
+33 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 19.0 seteamos los thresholds en 21mV para el canal 1 y 36mV para el 2
+22 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+22 eventos iniciales
+Para el rate 16.5 seteamos los thresholds en 22mV para el canal 1 y 38mV para el 2
+8 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+30 eventos iniciales
+Para el rate 14.0 seteamos los thresholds en 24mV para el canal 1 y 41mV para el 2
+15 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+45 eventos iniciales
+Para el rate 11.5 seteamos los thresholds en 25mV para el canal 1 y 43mV para el 2
+5 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+50 eventos iniciales
+Para el rate 9.0 seteamos los thresholds en 27mV para el canal 1 y 46mV para el 2
+4 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+54 eventos iniciales
+Para el rate 6.5 seteamos los thresholds en 29mV para el canal 1 y 50mV para el 2
+4 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 4.0 seteamos los thresholds en 32mV para el canal 1 y 57mV para el 2
+1 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 39.0 seteamos los thresholds en 8mV para el canal 1 y 4mV para el 2
+203 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+203 eventos iniciales
+Para el rate 36.5 seteamos los thresholds en 10mV para el canal 1 y 8mV para el 2
+151 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+1 eventos iniciales
+Para el rate 34.0 seteamos los thresholds en 12mV para el canal 1 y 14mV para el 2
+140 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+141 eventos iniciales
+Para el rate 31.5 seteamos los thresholds en 13mV para el canal 1 y 20mV para el 2
+103 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 29.0 seteamos los thresholds en 15mV para el canal 1 y 24mV para el 2
+87 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+87 eventos iniciales
+Para el rate 26.5 seteamos los thresholds en 16mV para el canal 1 y 27mV para el 2
+61 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+148 eventos iniciales
+Para el rate 24.0 seteamos los thresholds en 17mV para el canal 1 y 30mV para el 2
+42 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+190 eventos iniciales
+Para el rate 21.5 seteamos los thresholds en 18mV para el canal 1 y 33mV para el 2
+49 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 19.0 seteamos los thresholds en 21mV para el canal 1 y 36mV para el 2
+21 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+21 eventos iniciales
+Para el rate 16.5 seteamos los thresholds en 22mV para el canal 1 y 38mV para el 2
+14 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+35 eventos iniciales
+Para el rate 14.0 seteamos los thresholds en 24mV para el canal 1 y 41mV para el 2
+12 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+47 eventos iniciales
+Para el rate 11.5 seteamos los thresholds en 25mV para el canal 1 y 43mV para el 2
+5 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+52 eventos iniciales
+Para el rate 9.0 seteamos los thresholds en 27mV para el canal 1 y 46mV para el 2
+3 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+55 eventos iniciales
+Para el rate 6.5 seteamos los thresholds en 29mV para el canal 1 y 50mV para el 2
+2 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 4.0 seteamos los thresholds en 32mV para el canal 1 y 57mV para el 2
+2 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+1 eventos iniciales
+Para el rate 39.0 seteamos los thresholds en 8mV para el canal 1 y 4mV para el 2
+215 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+216 eventos iniciales
+Para el rate 36.5 seteamos los thresholds en 10mV para el canal 1 y 8mV para el 2
+173 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 34.0 seteamos los thresholds en 12mV para el canal 1 y 14mV para el 2
+136 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+136 eventos iniciales
+Para el rate 31.5 seteamos los thresholds en 13mV para el canal 1 y 20mV para el 2
+101 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 29.0 seteamos los thresholds en 15mV para el canal 1 y 24mV para el 2
+93 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+94 eventos iniciales
+Para el rate 26.5 seteamos los thresholds en 16mV para el canal 1 y 27mV para el 2
+76 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+170 eventos iniciales
+Para el rate 24.0 seteamos los thresholds en 17mV para el canal 1 y 30mV para el 2
+46 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+216 eventos iniciales
+Para el rate 21.5 seteamos los thresholds en 18mV para el canal 1 y 33mV para el 2
+40 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 19.0 seteamos los thresholds en 21mV para el canal 1 y 36mV para el 2
+16 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+16 eventos iniciales
+Para el rate 16.5 seteamos los thresholds en 22mV para el canal 1 y 38mV para el 2
+14 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+30 eventos iniciales
+Para el rate 14.0 seteamos los thresholds en 24mV para el canal 1 y 41mV para el 2
+9 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+39 eventos iniciales
+Para el rate 11.5 seteamos los thresholds en 25mV para el canal 1 y 43mV para el 2
+12 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+51 eventos iniciales
+Para el rate 9.0 seteamos los thresholds en 27mV para el canal 1 y 46mV para el 2
+4 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+55 eventos iniciales
+Para el rate 6.5 seteamos los thresholds en 29mV para el canal 1 y 50mV para el 2
+2 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 4.0 seteamos los thresholds en 32mV para el canal 1 y 57mV para el 2
+2 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 39.0 seteamos los thresholds en 8mV para el canal 1 y 4mV para el 2
+198 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+198 eventos iniciales
+Para el rate 36.5 seteamos los thresholds en 10mV para el canal 1 y 8mV para el 2
+164 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 34.0 seteamos los thresholds en 12mV para el canal 1 y 14mV para el 2
+145 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+146 eventos iniciales
+Para el rate 31.5 seteamos los thresholds en 13mV para el canal 1 y 20mV para el 2
+101 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 29.0 seteamos los thresholds en 15mV para el canal 1 y 24mV para el 2
+74 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+75 eventos iniciales
+Para el rate 26.5 seteamos los thresholds en 16mV para el canal 1 y 27mV para el 2
+64 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+139 eventos iniciales
+Para el rate 24.0 seteamos los thresholds en 17mV para el canal 1 y 30mV para el 2
+33 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+172 eventos iniciales
+Para el rate 21.5 seteamos los thresholds en 18mV para el canal 1 y 33mV para el 2
+37 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 19.0 seteamos los thresholds en 21mV para el canal 1 y 36mV para el 2
+27 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+27 eventos iniciales
+Para el rate 16.5 seteamos los thresholds en 22mV para el canal 1 y 38mV para el 2
+15 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+42 eventos iniciales
+Para el rate 14.0 seteamos los thresholds en 24mV para el canal 1 y 41mV para el 2
+11 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+53 eventos iniciales
+Para el rate 11.5 seteamos los thresholds en 25mV para el canal 1 y 43mV para el 2
+3 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+56 eventos iniciales
+Para el rate 9.0 seteamos los thresholds en 27mV para el canal 1 y 46mV para el 2
+4 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+60 eventos iniciales
+Para el rate 6.5 seteamos los thresholds en 29mV para el canal 1 y 50mV para el 2
+3 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 4.0 seteamos los thresholds en 32mV para el canal 1 y 57mV para el 2
+2 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 39.0 seteamos los thresholds en 8mV para el canal 1 y 4mV para el 2
+230 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+231 eventos iniciales
+Para el rate 36.5 seteamos los thresholds en 10mV para el canal 1 y 8mV para el 2
+143 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 34.0 seteamos los thresholds en 12mV para el canal 1 y 14mV para el 2
+133 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+133 eventos iniciales
+Para el rate 31.5 seteamos los thresholds en 13mV para el canal 1 y 20mV para el 2
+101 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+1 eventos iniciales
+Para el rate 29.0 seteamos los thresholds en 15mV para el canal 1 y 24mV para el 2
+92 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+93 eventos iniciales
+Para el rate 26.5 seteamos los thresholds en 16mV para el canal 1 y 27mV para el 2
+65 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+158 eventos iniciales
+Para el rate 24.0 seteamos los thresholds en 17mV para el canal 1 y 30mV para el 2
+48 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+206 eventos iniciales
+Para el rate 21.5 seteamos los thresholds en 18mV para el canal 1 y 33mV para el 2
+32 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 19.0 seteamos los thresholds en 21mV para el canal 1 y 36mV para el 2
+26 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+26 eventos iniciales
+Para el rate 16.5 seteamos los thresholds en 22mV para el canal 1 y 38mV para el 2
+14 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+40 eventos iniciales
+Para el rate 14.0 seteamos los thresholds en 24mV para el canal 1 y 41mV para el 2
+12 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+52 eventos iniciales
+Para el rate 11.5 seteamos los thresholds en 25mV para el canal 1 y 43mV para el 2
+13 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+65 eventos iniciales
+Para el rate 9.0 seteamos los thresholds en 27mV para el canal 1 y 46mV para el 2
+4 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+69 eventos iniciales
+Para el rate 6.5 seteamos los thresholds en 29mV para el canal 1 y 50mV para el 2
+2 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 4.0 seteamos los thresholds en 32mV para el canal 1 y 57mV para el 2
+2 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 39.0 seteamos los thresholds en 8mV para el canal 1 y 4mV para el 2
+207 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+208 eventos iniciales
+Para el rate 36.5 seteamos los thresholds en 10mV para el canal 1 y 8mV para el 2
+182 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 34.0 seteamos los thresholds en 12mV para el canal 1 y 14mV para el 2
+151 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+151 eventos iniciales
+Para el rate 31.5 seteamos los thresholds en 13mV para el canal 1 y 20mV para el 2
+99 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 29.0 seteamos los thresholds en 15mV para el canal 1 y 24mV para el 2
+104 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+104 eventos iniciales
+Para el rate 26.5 seteamos los thresholds en 16mV para el canal 1 y 27mV para el 2
+58 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+162 eventos iniciales
+Para el rate 24.0 seteamos los thresholds en 17mV para el canal 1 y 30mV para el 2
+48 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+210 eventos iniciales
+Para el rate 21.5 seteamos los thresholds en 18mV para el canal 1 y 33mV para el 2
+33 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 19.0 seteamos los thresholds en 21mV para el canal 1 y 36mV para el 2
+25 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+25 eventos iniciales
+Para el rate 16.5 seteamos los thresholds en 22mV para el canal 1 y 38mV para el 2
+13 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+38 eventos iniciales
+Para el rate 14.0 seteamos los thresholds en 24mV para el canal 1 y 41mV para el 2
+8 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+46 eventos iniciales
+Para el rate 11.5 seteamos los thresholds en 25mV para el canal 1 y 43mV para el 2
+6 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+52 eventos iniciales
+Para el rate 9.0 seteamos los thresholds en 27mV para el canal 1 y 46mV para el 2
+6 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+58 eventos iniciales
+Para el rate 6.5 seteamos los thresholds en 29mV para el canal 1 y 50mV para el 2
+5 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 4.0 seteamos los thresholds en 32mV para el canal 1 y 57mV para el 2
+2 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 39.0 seteamos los thresholds en 8mV para el canal 1 y 4mV para el 2
+236 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+237 eventos iniciales
+Para el rate 36.5 seteamos los thresholds en 10mV para el canal 1 y 8mV para el 2
+160 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 34.0 seteamos los thresholds en 12mV para el canal 1 y 14mV para el 2
+136 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+136 eventos iniciales
+Para el rate 31.5 seteamos los thresholds en 13mV para el canal 1 y 20mV para el 2
+107 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 29.0 seteamos los thresholds en 15mV para el canal 1 y 24mV para el 2
+86 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+86 eventos iniciales
+Para el rate 26.5 seteamos los thresholds en 16mV para el canal 1 y 27mV para el 2
+51 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+137 eventos iniciales
+Para el rate 24.0 seteamos los thresholds en 17mV para el canal 1 y 30mV para el 2
+49 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+186 eventos iniciales
+Para el rate 21.5 seteamos los thresholds en 18mV para el canal 1 y 33mV para el 2
+25 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 19.0 seteamos los thresholds en 21mV para el canal 1 y 36mV para el 2
+24 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+24 eventos iniciales
+Para el rate 16.5 seteamos los thresholds en 22mV para el canal 1 y 38mV para el 2
+19 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+43 eventos iniciales
+Para el rate 14.0 seteamos los thresholds en 24mV para el canal 1 y 41mV para el 2
+19 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+62 eventos iniciales
+Para el rate 11.5 seteamos los thresholds en 25mV para el canal 1 y 43mV para el 2
+17 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+79 eventos iniciales
+Para el rate 9.0 seteamos los thresholds en 27mV para el canal 1 y 46mV para el 2
+8 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+87 eventos iniciales
+Para el rate 6.5 seteamos los thresholds en 29mV para el canal 1 y 50mV para el 2
+1 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 4.0 seteamos los thresholds en 32mV para el canal 1 y 57mV para el 2
+2 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 39.0 seteamos los thresholds en 8mV para el canal 1 y 4mV para el 2
+221 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+221 eventos iniciales
+Para el rate 36.5 seteamos los thresholds en 10mV para el canal 1 y 8mV para el 2
+163 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 34.0 seteamos los thresholds en 12mV para el canal 1 y 14mV para el 2
+129 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+129 eventos iniciales
+Para el rate 31.5 seteamos los thresholds en 13mV para el canal 1 y 20mV para el 2
+115 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 29.0 seteamos los thresholds en 15mV para el canal 1 y 24mV para el 2
+88 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+88 eventos iniciales
+Para el rate 26.5 seteamos los thresholds en 16mV para el canal 1 y 27mV para el 2
+55 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+143 eventos iniciales
+Para el rate 24.0 seteamos los thresholds en 17mV para el canal 1 y 30mV para el 2
+56 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+199 eventos iniciales
+Para el rate 21.5 seteamos los thresholds en 18mV para el canal 1 y 33mV para el 2
+37 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 19.0 seteamos los thresholds en 21mV para el canal 1 y 36mV para el 2
+17 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+17 eventos iniciales
+Para el rate 16.5 seteamos los thresholds en 22mV para el canal 1 y 38mV para el 2
+13 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+30 eventos iniciales
+Para el rate 14.0 seteamos los thresholds en 24mV para el canal 1 y 41mV para el 2
+7 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+37 eventos iniciales
+Para el rate 11.5 seteamos los thresholds en 25mV para el canal 1 y 43mV para el 2
+9 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+46 eventos iniciales
+Para el rate 9.0 seteamos los thresholds en 27mV para el canal 1 y 46mV para el 2
+8 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+54 eventos iniciales
+Para el rate 6.5 seteamos los thresholds en 29mV para el canal 1 y 50mV para el 2
+2 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 4.0 seteamos los thresholds en 32mV para el canal 1 y 57mV para el 2
+1 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 39.0 seteamos los thresholds en 8mV para el canal 1 y 4mV para el 2
+177 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+177 eventos iniciales
+Para el rate 36.5 seteamos los thresholds en 10mV para el canal 1 y 8mV para el 2
+160 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 34.0 seteamos los thresholds en 12mV para el canal 1 y 14mV para el 2
+141 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+141 eventos iniciales
+Para el rate 31.5 seteamos los thresholds en 13mV para el canal 1 y 20mV para el 2
+99 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 29.0 seteamos los thresholds en 15mV para el canal 1 y 24mV para el 2
+80 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+80 eventos iniciales
+Para el rate 26.5 seteamos los thresholds en 16mV para el canal 1 y 27mV para el 2
+62 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+142 eventos iniciales
+Para el rate 24.0 seteamos los thresholds en 17mV para el canal 1 y 30mV para el 2
+54 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+197 eventos iniciales
+Para el rate 21.5 seteamos los thresholds en 18mV para el canal 1 y 33mV para el 2
+44 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 19.0 seteamos los thresholds en 21mV para el canal 1 y 36mV para el 2
+23 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+23 eventos iniciales
+Para el rate 16.5 seteamos los thresholds en 22mV para el canal 1 y 38mV para el 2
+12 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+35 eventos iniciales
+Para el rate 14.0 seteamos los thresholds en 24mV para el canal 1 y 41mV para el 2
+6 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+41 eventos iniciales
+Para el rate 11.5 seteamos los thresholds en 25mV para el canal 1 y 43mV para el 2
+10 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+51 eventos iniciales
+Para el rate 9.0 seteamos los thresholds en 27mV para el canal 1 y 46mV para el 2
+6 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+57 eventos iniciales
+Para el rate 6.5 seteamos los thresholds en 29mV para el canal 1 y 50mV para el 2
+1 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 4.0 seteamos los thresholds en 32mV para el canal 1 y 57mV para el 2
+2 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 39.0 seteamos los thresholds en 8mV para el canal 1 y 4mV para el 2
+188 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+188 eventos iniciales
+Para el rate 36.5 seteamos los thresholds en 10mV para el canal 1 y 8mV para el 2
+174 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 34.0 seteamos los thresholds en 12mV para el canal 1 y 14mV para el 2
+127 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+127 eventos iniciales
+Para el rate 31.5 seteamos los thresholds en 13mV para el canal 1 y 20mV para el 2
+123 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 29.0 seteamos los thresholds en 15mV para el canal 1 y 24mV para el 2
+79 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+80 eventos iniciales
+Para el rate 26.5 seteamos los thresholds en 16mV para el canal 1 y 27mV para el 2
+67 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+147 eventos iniciales
+Para el rate 24.0 seteamos los thresholds en 17mV para el canal 1 y 30mV para el 2
+50 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+197 eventos iniciales
+Para el rate 21.5 seteamos los thresholds en 18mV para el canal 1 y 33mV para el 2
+35 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 19.0 seteamos los thresholds en 21mV para el canal 1 y 36mV para el 2
+26 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+26 eventos iniciales
+Para el rate 16.5 seteamos los thresholds en 22mV para el canal 1 y 38mV para el 2
+13 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+39 eventos iniciales
+Para el rate 14.0 seteamos los thresholds en 24mV para el canal 1 y 41mV para el 2
+7 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+46 eventos iniciales
+Para el rate 11.5 seteamos los thresholds en 25mV para el canal 1 y 43mV para el 2
+8 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+54 eventos iniciales
+Para el rate 9.0 seteamos los thresholds en 27mV para el canal 1 y 46mV para el 2
+11 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+65 eventos iniciales
+Para el rate 6.5 seteamos los thresholds en 29mV para el canal 1 y 50mV para el 2
+0 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 4.0 seteamos los thresholds en 32mV para el canal 1 y 57mV para el 2
+4 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+1 eventos iniciales
+Para el rate 39.0 seteamos los thresholds en 8mV para el canal 1 y 4mV para el 2
+193 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+194 eventos iniciales
+Para el rate 36.5 seteamos los thresholds en 10mV para el canal 1 y 8mV para el 2
+143 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 34.0 seteamos los thresholds en 12mV para el canal 1 y 14mV para el 2
+133 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+134 eventos iniciales
+Para el rate 31.5 seteamos los thresholds en 13mV para el canal 1 y 20mV para el 2
+130 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 29.0 seteamos los thresholds en 15mV para el canal 1 y 24mV para el 2
+77 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+77 eventos iniciales
+Para el rate 26.5 seteamos los thresholds en 16mV para el canal 1 y 27mV para el 2
+70 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+148 eventos iniciales
+Para el rate 24.0 seteamos los thresholds en 17mV para el canal 1 y 30mV para el 2
+52 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+200 eventos iniciales
+Para el rate 21.5 seteamos los thresholds en 18mV para el canal 1 y 33mV para el 2
+25 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 19.0 seteamos los thresholds en 21mV para el canal 1 y 36mV para el 2
+18 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+18 eventos iniciales
+Para el rate 16.5 seteamos los thresholds en 22mV para el canal 1 y 38mV para el 2
+13 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+31 eventos iniciales
+Para el rate 14.0 seteamos los thresholds en 24mV para el canal 1 y 41mV para el 2
+15 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+46 eventos iniciales
+Para el rate 11.5 seteamos los thresholds en 25mV para el canal 1 y 43mV para el 2
+2 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+48 eventos iniciales
+Para el rate 9.0 seteamos los thresholds en 27mV para el canal 1 y 46mV para el 2
+4 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+52 eventos iniciales
+Para el rate 6.5 seteamos los thresholds en 29mV para el canal 1 y 50mV para el 2
+3 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 4.0 seteamos los thresholds en 32mV para el canal 1 y 57mV para el 2
+0 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 39.0 seteamos los thresholds en 8mV para el canal 1 y 4mV para el 2
+195 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+195 eventos iniciales
+Para el rate 36.5 seteamos los thresholds en 10mV para el canal 1 y 8mV para el 2
+167 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 34.0 seteamos los thresholds en 12mV para el canal 1 y 14mV para el 2
+154 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+154 eventos iniciales
+Para el rate 31.5 seteamos los thresholds en 13mV para el canal 1 y 20mV para el 2
+114 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 29.0 seteamos los thresholds en 15mV para el canal 1 y 24mV para el 2
+75 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+75 eventos iniciales
+Para el rate 26.5 seteamos los thresholds en 16mV para el canal 1 y 27mV para el 2
+53 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+128 eventos iniciales
+Para el rate 24.0 seteamos los thresholds en 17mV para el canal 1 y 30mV para el 2
+48 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+176 eventos iniciales
+Para el rate 21.5 seteamos los thresholds en 18mV para el canal 1 y 33mV para el 2
+51 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 19.0 seteamos los thresholds en 21mV para el canal 1 y 36mV para el 2
+27 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+27 eventos iniciales
+Para el rate 16.5 seteamos los thresholds en 22mV para el canal 1 y 38mV para el 2
+13 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+40 eventos iniciales
+Para el rate 14.0 seteamos los thresholds en 24mV para el canal 1 y 41mV para el 2
+11 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+51 eventos iniciales
+Para el rate 11.5 seteamos los thresholds en 25mV para el canal 1 y 43mV para el 2
+5 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+56 eventos iniciales
+Para el rate 9.0 seteamos los thresholds en 27mV para el canal 1 y 46mV para el 2
+7 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+63 eventos iniciales
+Para el rate 6.5 seteamos los thresholds en 29mV para el canal 1 y 50mV para el 2
+7 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 4.0 seteamos los thresholds en 32mV para el canal 1 y 57mV para el 2
+2 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 39.0 seteamos los thresholds en 8mV para el canal 1 y 4mV para el 2
+227 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+227 eventos iniciales
+Para el rate 36.5 seteamos los thresholds en 10mV para el canal 1 y 8mV para el 2
+167 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 34.0 seteamos los thresholds en 12mV para el canal 1 y 14mV para el 2
+119 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+120 eventos iniciales
+Para el rate 31.5 seteamos los thresholds en 13mV para el canal 1 y 20mV para el 2
+114 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 29.0 seteamos los thresholds en 15mV para el canal 1 y 24mV para el 2
+72 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+72 eventos iniciales
+Para el rate 26.5 seteamos los thresholds en 16mV para el canal 1 y 27mV para el 2
+69 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+142 eventos iniciales
+Para el rate 24.0 seteamos los thresholds en 17mV para el canal 1 y 30mV para el 2
+38 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+180 eventos iniciales
+Para el rate 21.5 seteamos los thresholds en 18mV para el canal 1 y 33mV para el 2
+31 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 19.0 seteamos los thresholds en 21mV para el canal 1 y 36mV para el 2
+20 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+20 eventos iniciales
+Para el rate 16.5 seteamos los thresholds en 22mV para el canal 1 y 38mV para el 2
+10 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+30 eventos iniciales
+Para el rate 14.0 seteamos los thresholds en 24mV para el canal 1 y 41mV para el 2
+11 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+41 eventos iniciales
+Para el rate 11.5 seteamos los thresholds en 25mV para el canal 1 y 43mV para el 2
+11 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+52 eventos iniciales
+Para el rate 9.0 seteamos los thresholds en 27mV para el canal 1 y 46mV para el 2
+5 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+57 eventos iniciales
+Para el rate 6.5 seteamos los thresholds en 29mV para el canal 1 y 50mV para el 2
+0 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 4.0 seteamos los thresholds en 32mV para el canal 1 y 57mV para el 2
+3 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 39.0 seteamos los thresholds en 8mV para el canal 1 y 4mV para el 2
+221 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+221 eventos iniciales
+Para el rate 36.5 seteamos los thresholds en 10mV para el canal 1 y 8mV para el 2
+177 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 34.0 seteamos los thresholds en 12mV para el canal 1 y 14mV para el 2
+143 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+143 eventos iniciales
+Para el rate 31.5 seteamos los thresholds en 13mV para el canal 1 y 20mV para el 2
+100 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 29.0 seteamos los thresholds en 15mV para el canal 1 y 24mV para el 2
+81 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+82 eventos iniciales
+Para el rate 26.5 seteamos los thresholds en 16mV para el canal 1 y 27mV para el 2
+59 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+142 eventos iniciales
+Para el rate 24.0 seteamos los thresholds en 17mV para el canal 1 y 30mV para el 2
+48 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+190 eventos iniciales
+Para el rate 21.5 seteamos los thresholds en 18mV para el canal 1 y 33mV para el 2
+34 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 19.0 seteamos los thresholds en 21mV para el canal 1 y 36mV para el 2
+16 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+16 eventos iniciales
+Para el rate 16.5 seteamos los thresholds en 22mV para el canal 1 y 38mV para el 2
+15 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+31 eventos iniciales
+Para el rate 14.0 seteamos los thresholds en 24mV para el canal 1 y 41mV para el 2
+7 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+38 eventos iniciales
+Para el rate 11.5 seteamos los thresholds en 25mV para el canal 1 y 43mV para el 2
+4 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+42 eventos iniciales
+Para el rate 9.0 seteamos los thresholds en 27mV para el canal 1 y 46mV para el 2
+5 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+47 eventos iniciales
+Para el rate 6.5 seteamos los thresholds en 29mV para el canal 1 y 50mV para el 2
+2 coincidencias
+Estamos configurando la siguiente medición. Por favor espere...
+0 eventos iniciales
+Para el rate 4.0 seteamos los thresholds en 32mV para el canal 1 y 57mV para el 2
+4 coincidencias
