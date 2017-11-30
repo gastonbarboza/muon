@@ -29,7 +29,7 @@ if not(os.path.isdir(pathname)):
 nombrecarpeta = pathname + "coincidencias"+time.strftime("%y.%m.%d_%H.%M")+"/"
 if not(os.path.isdir(nombrecarpeta)):
     os.mkdir(nombrecarpeta)
-nombrearchivo = "coincidencias.pines_5_9.volt_850_852.seg_{}.".format(tiempomedicion) + strftime("%y.%m.%d_%H.%M.%s")
+nombrearchivo = "coincidencias.pines_5_9.volt_850_852.seg_{}.".format(tiempomedicion)
 
 #Imprime rates para chequear que esté todo bien
 ratestring = ', '.join(map(str,ratelist.tolist()))
@@ -55,6 +55,6 @@ for j in range(repeticiones):
         sleep(tiempomedicion)
         nromuones = int(osci.query('ACQuire:NUMACq?')) - muonesIniciales
         matrizdedatos[index][1] = nromuones
-        np.savetxt(nombrecarpeta + nombrearchivo + '.csv',matrizdedatos,delimiter=',')
         print(str(nromuones) + ' coincidencias')
+    np.savetxt(nombrecarpeta + nombrearchivo + strftime("%y_%m_%d.%H_%M_%s") + '.csv',matrizdedatos,delimiter=',')
 osci.close()
