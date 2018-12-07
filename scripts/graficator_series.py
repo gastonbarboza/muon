@@ -38,6 +38,9 @@ for index,dato in enumerate(datos):
     escalay = float(input("Multiplico eje y por? "))/60
     escalax = float(input("Multiplico eje x por? "))
     plt.plot(dato[:,0]*escalax,dato[:,1]*escalay,'-o',label=etiqueta,color=colorcito,)
+    if input("Escala logaritmica? y/n ")=="y":
+        plt.xscale('log')
+        plt.yscale('log')
 plt.legend()
 plt.grid()
 nombre = input('Título del gráfico? ')
